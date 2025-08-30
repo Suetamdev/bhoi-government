@@ -1,0 +1,462 @@
+﻿l_simp_chinese:
+
+    #----#
+    #IDEAS
+    #----#
+    complementary_policies:0 "补充政策"
+
+    #HIGH COUNCIL
+    cop_high_council:0 "高级议会"
+
+    #LAWS
+    planning_stage:0 "规划阶段"
+    efficiency_burocracy:0 "官僚效率"
+    creation_of_guerrilas:0 "游击队创建"
+    production_country:0 "生产"
+    mobilization_country:0 "动员"
+    military_expansion:0 "军事扩张"
+    nationalism_country:0 "民族主义"
+    covert_ops:0 "秘密行动"
+
+    #HEAD OF STATE
+    cop_head_of_state:0 "国家元首"
+
+    #LAWS
+    head_monarch:0 "君主"
+    head_prime_minister:0 "首相"
+    head_president:0 "总统"
+    head_military:0 "军事"
+    head_chairman:0 "主席"
+
+    #TAXATION POLICY
+    cop_taxation_policy:0 "税收政策"
+
+    #LAWS
+    very_high_taxation:0 "非常高"
+    high_taxation:0 "高"
+    standard_taxation:0 "标准"
+    low_taxation:0 "低"
+    very_low_taxation:0 "非常低"
+    communal_benefits:0 "公共福利"
+
+    #MILITARY BUDGET
+    cop_military_budget:0 "军事预算"
+
+    #LAWS
+    one_percent:0 "1%"
+    two_percent:0 "2%"
+    three_percent:0 "3%"
+    five_percent:0 "5%"
+    ten_percent:0 "10%"
+
+    #OUTPUTS FOCUS
+    cop_output_focus:0 "产出重点"
+
+    #LAWS
+    output_army_dominant:0 "以军队为主"
+    output_army_strengthened:0 "强化陆军"
+    output_balanced:0 "平衡"
+    output_navy_strengthened:0 "强化海军"
+    output_navy_dominant:0 "以海军为主"
+
+    #PENAL SYSTEM
+    cop_penal_system:0 "刑罚体系"
+
+    #LAWS
+    penal_slavery:0 "奴役"
+    penal_capital_punishment:0 "死刑"
+    penal_labour:0 "劳役"
+    penal_incarceration:0 "监禁"
+    penal_rehabilitation:0 "改造"
+    penal_recruitment:0 "征兵"
+
+    #----#
+    #IDEAS
+    #----#
+    military_recruitment:0 "军事征兵"
+
+    #SERVICE EXEMPTION
+    mr_recruitment_standard:0 "服役豁免"
+
+    #LAWS
+    healthy_standard:0 "健康"
+    loose_standard:0 "宽松"
+    no_exemptions:0 "无豁免"
+    scraping_the_barrel_standard:0 "勉强"
+
+    #SERVICE LIMIT
+    mr_service_limit:0 "服役限制"
+
+    #LAWS
+    limited_service:0 "有限服役"
+    wartime_service:0 "延长服役"
+    shake_and_bake:0 "老兵轮换"
+
+    #ENLISTMENT AGE
+    mr_minimum_age:0 "征兵年龄"
+
+    #LAWS
+    age_19:0 "19"
+    age_18:0 "18"
+    age_17:0 "17"
+    age_16:0 "16"
+    age_15:0 "15"
+    age_14:0 "14"
+    all_must_serve_young:0 "人人服役"
+
+    #RETIREMENT AGE
+    mr_maximum_age:0 "退休年龄"
+
+    #LAWS
+    age_40:0 "40"
+    age_50:0 "50"
+    age_60:0 "60"
+    all_must_serve_old:0 "人人服役"
+
+    #WOMEN
+    mr_role_of_women:0 "妇女权利法"
+
+    #LAWS
+    stay_at_home:0 "居家"
+    women_workers:0 "女性工人"
+    women_auxillary:0 "女性辅助"
+    limited_female_service:0 "有限女性服役"
+    egalitarian:0 "平等主义"
+
+    #MERCENARIES
+    mr_mercenaries:0 "雇佣兵招募"
+
+    #LAWS
+    banned_mercenaries:0 "禁止"
+    limited_foreign_mercenaries:0 "有限"
+    extensive_foreign_mercenaries:0 "广泛"
+
+    #----#
+    #IDEAS
+    #----#
+    government_policies:0 "政府政策"
+
+    #MASS MEDIA POLICY
+    gp_mass_media:0 "大众传媒政策"
+
+    #LAWS
+    mass_media_propaganda:0 "政府宣传"
+    mass_media_censorship:0 "审查"
+    mass_media_free:0 "自由媒体"
+    mass_media_control:0 "控制公民"
+    mass_media_liberty:0 "追求自由"
+    mass_media_empower_right:0 "右派授权"
+    mass_media_empower_left:0 "左派授权"
+
+    #POPULATION GROWTH CONTROL
+    gp_population:0 "人口增长控制"
+
+    #LAWS
+    population_encourage:0 "鼓励增长"
+    population_open:0 "开放边界"
+    population_pure:0 "民族纯洁"
+    population_controlled:0 "人口受控"
+
+    #EQUALITY OF PEOPLE
+    gp_equality:0 "人民平等"
+
+    #LAWS
+    equality_all:0 "全民平等"
+    equality_segregation:0 "种族隔离"
+    equality_genocide:0 "种族灭绝政策"
+    equality_minority:0 "少数群体压制"
+
+    #ECONOMIC FREEDOM
+    gp_economic_freedom:0 "经济自由"
+
+    #LAWS
+    collectivization:0 "集体化"
+    illiberalism:0 "非自由主义"
+    state_capitalism:0 "国家资本主义"
+    social_liberalism:0 "社会自由主义"
+    eliberalism:0 "自由主义"
+    capitalism:0 "资本主义"
+    elitism:0 "精英主义"
+
+    #ECONOMIC BASE
+    gp_economic_base:0 "经济基础"
+
+    #LAWS
+    agriculture:0 "农业经济"
+    banking:0 "银行与避税地"
+    service_economy:0 "小企业"
+    natural_exports:0 "自然资源出口"
+    enterprise:0 "企业"
+    manufacturing:0 "制造业"
+
+    #FINANCIAL COURSE
+    gp_finances:0 "财政政策"
+
+    #LAWS
+    finances_science:0 "科学支持"
+    finances_army:0 "军队融资"
+    finances_civilian:0 "民用支出"
+    finances_foreign:0 "对外补助"
+
+    #----#
+    #IDEAS
+    #----#
+    army_policies:0 "陆军政策"
+
+    #ARMY DOCTRINE
+    ap_doctrine_army:0 "陆军学说"
+
+    #LAWS
+    doctrine_army_speed:0 "闪电战"
+    doctrine_army_fire:0 "震慑战"
+    doctrine_army_wide:0 "联合阵线"
+    doctrine_army_combined:0 "战争未来"
+    doctrine_army_plan:0 "精密计划"
+    doctrine_army_indirect:0 "突袭"
+    doctrine_the_old_way:0 "骑兵先锋"
+    doctrine_the_unthinkable_way:0 "不可思议路线"
+    doctrine_trench_warfare:0 "壕沟战"
+
+    #SOLDIERS TRAINING
+    ap_soldier_training:0 "士兵训练"
+
+    #LAWS
+    soldier_full:0 "全面"
+    soldier_basic:0 "基础"
+    soldier_extended:0 "扩展"
+    soldier_baptism:0 "火焰洗礼"
+
+    #OFFICERS TRAINING
+    ap_officer_training:0 "军官训练"
+
+    #LAWS
+    officer_attack:0 "进攻"
+    officer_defense:0 "防御"
+    officer_planning:0 "规划"
+    officer_logistics:0 "后勤"
+
+    #SPECIAL FORCES ROLE
+    ap_spec_ops:0 "特种部队角色"
+
+    #LAWS
+    spec_ops_quantity:0 "支援陆军"
+    spec_ops_quality:0 "特种行动"
+    spec_ops_foreign:0 "海外冲突"
+    spec_ops_security:0 "内务安全"
+
+    #MANUFACTORY
+    ap_manufactory:0 "生产方式"
+
+    #LAWS
+    manufactory_light_tanks:0 "轻型坦克"
+    manufactory_medium_tanks:0 "中型坦克"
+    manufactory_heavy_tanks:0 "重型坦克"
+    manufactory_super_heavy_tanks:0 "超重型坦克"
+    manufactory_amphibious_tanks:0 "两栖坦克"
+    manufactory_railway_guns:0 "铁路炮"
+    manufactory_support_vehicles:0 "支援车辆"
+
+    #VOLUNTEERS
+    ap_volunteers:0 "志愿者"
+
+    #LAWS
+    volunteers_no:0 "无志愿者"
+    volunteers_limited:0 "小规模"
+    volunteers_extended:0 "大规模"
+
+    #----#
+    #IDEAS
+    #----#
+    navy_policies:0 "海军政策"
+
+    #NAVAL DOCTRINE
+    np_doctrine_navy:0 "海军学说"
+
+    #LAWS
+    doctrine_navy_battle:0 "海战"
+    doctrine_navy_raid:0 "护航袭击"
+    doctrine_navy_protect:0 "贸易保护"
+    doctrine_navy_strike:0 "基地打击"
+
+    #NAVY TRAINING
+    np_sailor_training:0 "水手训练"
+
+    #LAWS
+    sailor_training_theory:0 "理论学习"
+    sailor_training_practic:0 "实践训练"
+    sailor_training_basic:0 "基础训练"
+
+    #ADMIRAL TRAINING
+    np_admiral_training:0 "海军将领训练"
+
+    #LAWS
+    admiral_attack:0 "进攻"
+    admiral_defense:0 "防御"
+    admiral_maneuvering:0 "机动"
+    admiral_coordination:0 "协调"
+
+    #MARINES
+    np_marine_corps:0 "海军陆战队"
+
+    #LAWS
+    marine_corps_army:0 "陆军指挥"
+    marine_corps_navy:0 "海军指挥"
+    marine_corps_spec:0 "特种部队指挥"
+
+    #SHIPYARD
+    np_shipyard:0 "生产方式"
+
+    #LAWS
+    shipyard_submarine:0 "潜艇"
+    shipyard_destroyer:0 "驱逐舰"
+    shipyard_screen_ship:0 "护航舰"
+    shipyard_carrier:0 "航空母舰"
+    shipyard_heavy_cruiser:0 "重型巡洋舰"
+    shipyard_capital_ship:0 "主力舰"
+    shipyard_support_ships:0 "支援舰"
+
+    #FLEET PRODUCTION
+    np_navy_production:0 "舰队生产"
+
+    #LAWS
+    navy_production_normal:0 "标准设计"
+    navy_production_cheap:0 "廉价生产"
+    navy_production_quality:0 "高质量制造"
+    navy_production_no:0 "限制生产"
+
+    #----#
+    #IDEAS
+    #----#
+    air_policies:0 "空军政策"
+
+    #AIRFORCE DOCTRINE
+    aip_doctrine_air:0 "空军学说"
+
+    #LAWS
+    doctrine_air_strategic:0 "战略轰炸"
+    doctrine_air_land:0 "地面支援"
+    doctrine_air_fleet:0 "舰队支援"
+    doctrine_air_defence:0 "防空"
+
+    #AIRFORCE TRAINING
+    aip_training_air:0 "空军训练"
+
+    #LAWS
+    training_air_theory:0 "理论学习"
+    training_air_practic:0 "实践训练"
+    training_air_basic:0 "基础训练"
+
+    #ACE TRAINING
+    aip_ace_training:0 "王牌训练"
+
+    #LAWS
+    training_everyone_ace:0 "非常规"
+    training_standard_ace:0 "普通"
+    training_elite_ace:0 "精英"
+
+    #PARATROOPERS
+    aip_airborne:0 "空降部队"
+
+    #LAWS
+    airborne_army:0 "陆军指挥"
+    airborne_air:0 "空军指挥"
+    airborne_spec:0 "特种部队指挥"
+
+    #FLEET FOCUS
+    aip_fleet:0 "生产方式"
+
+    #LAWS
+    small_planes:0 "小型"
+    medium_planes:0 "中型"
+    large_planes:0 "大型"
+    support_planes:0 "支援"
+
+    #PLANES PRODUCTION
+    aip_air_production:0 "飞机生产"
+
+    #LAWS
+    air_production_normal:0 "标准设计"
+    air_production_cheap:0 "廉价生产"
+    air_production_quality:0 "高质量制造"
+    air_production_no:0 "限制生产"
+
+    #----#
+    #IDEAS
+    #----#
+    civilian_policies:0 "民用政策"
+
+    #CONSTRUCTION FOCUS
+    cp_build_focus:0 "建设重点"
+
+    #LAWS
+    focus_civilian:0 "工业综合体"
+    focus_military:0 "军事建筑"
+    focus_defense:0 "防御"
+    focus_infrastructure:0 "基础设施"
+    focus_resources:0 "资源开采"
+
+    #WORK HOUR LIMIT
+    cp_work_hour_limit:0 "工作时间限制"
+
+    #LAWS
+    hour_no_limit:0 "无限制"
+    hour_limit_14:0 "14小时"
+    hour_limit_12:0 "12小时"
+    hour_limit_10:0 "10小时"
+    hour_limit_8:0 "8小时"
+
+    #EDUCATION
+    cp_education:0 "教育"
+
+    #LAWS
+    education_priveleged:0 "特权"
+    education_cheap:0 "廉价"
+    education_religious:0 "宗教"
+    education_military:0 "军事"
+    education_propagandized:0 "宣传"
+    education_standard:0 "标准"
+    education_excessive:0 "过度"
+
+    #HEALTHCARE
+    cp_healthcare:0 "医疗"
+
+    #LAWS
+    healthcare_no:0 "无"
+    healthcare_private:0 "私立"
+    healthcare_public_bad:0 "公共差"
+    healthcare_public_decent:0 "公共一般"
+    healthcare_public_good:0 "公共良好"
+
+    #Synthetic Resources Focus - 1
+    cp_synthetic_resources_focus_1:0 "合成资源重点 - 1"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_1:0 "铝"
+    synthetic_resources_focus_chromium_1:0 "铬"
+    synthetic_resources_focus_oil_1:0 "石油"
+    synthetic_resources_focus_rubber_1:0 "橡胶"
+    synthetic_resources_focus_steel_1:0 "钢"
+    synthetic_resources_focus_tungsten_1:0 "钨"
+
+    #Synthetic Resources Focus - 2
+    cp_synthetic_resources_focus_2:0 "合成资源重点 - 2"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_2:0 "铝"
+    synthetic_resources_focus_chromium_2:0 "铬"
+    synthetic_resources_focus_oil_2:0 "石油"
+    synthetic_resources_focus_rubber_2:0 "橡胶"
+    synthetic_resources_focus_steel_2:0 "钢"
+    synthetic_resources_focus_tungsten_2:0 "钨"
+
+    #----#
+    #UNITS
+    #----#
+    mercenary:0 "雇佣兵"
+    mercenary_desc:0 "为报酬而战的军队"
+
+    #----#
+    #SCRIPTED EVENTS
+    #----#
+    BG_mercenary_limited_contract:0 "增加受限的雇佣兵师 \n"
+    BG_mercenary_extend_contract:0 "扩展雇佣兵师数量限制 \n"

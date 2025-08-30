@@ -1,0 +1,303 @@
+ideas = {
+
+	gp_economic_freedom = {
+
+		law = yes
+
+		collectivization = {
+
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					has_government = communism
+				}
+			}
+
+			modifier = {
+				stability_factor = 0.10
+				political_power_factor = -0.15
+				consumer_goods_factor = -0.3
+				industrial_capacity_factory = 0.15
+				industrial_capacity_dockyard = 0.15
+				production_speed_infrastructure_factor = -0.15
+				production_speed_industrial_complex_factor = -0.15
+				production_speed_dockyard_factor = 0.25
+				production_speed_arms_factory_factor = 0.25
+				production_speed_air_base_factor = -0.15
+				production_speed_supply_node_factor = -0.15
+				production_speed_naval_base_factor = -0.15
+				production_speed_anti_air_building_factor = -0.15
+				production_speed_radar_station_factor = -0.15
+				min_export = -0.20
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					has_government = communism
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		illiberalism = {
+
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					OR = {
+						has_government = fascism
+						has_government = neutrality
+					}
+				}
+			}
+
+			modifier = {
+				stability_factor = 0.075
+				political_power_factor = -0.1
+				consumer_goods_factor = -0.2
+				industrial_capacity_factory = 0.075
+				industrial_capacity_dockyard = 0.075
+				production_speed_infrastructure_factor = -0.1
+				production_speed_industrial_complex_factor = -0.1
+				production_speed_arms_factory_factor = 0.2
+				production_speed_dockyard_factor = 0.2
+				production_speed_air_base_factor = -0.10
+				production_speed_supply_node_factor = -0.1
+				production_speed_naval_base_factor = -0.1
+				production_speed_anti_air_building_factor = -0.1
+				production_speed_radar_station_factor = -0.1
+				min_export = -0.15
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					has_government = fascism
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		state_capitalism = {
+
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					NOT = { has_government = communism }
+				}
+			}
+
+			modifier = {
+				political_power_factor = -0.05
+				consumer_goods_factor = -0.15
+				industrial_capacity_factory = 0.05
+				industrial_capacity_dockyard = 0.05
+				production_speed_infrastructure_factor = -0.05
+				production_speed_industrial_complex_factor = -0.05
+				production_speed_arms_factory_factor = 0.15
+				production_speed_dockyard_factor = 0.15
+				production_speed_air_base_factor = -0.05
+				production_speed_supply_node_factor = -0.05
+				production_speed_naval_base_factor = -0.05
+				production_speed_anti_air_building_factor = -0.05
+				production_speed_radar_station_factor = -0.05
+				min_export = -0.1
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					has_government = democratic
+					num_of_factories < 50
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		social_liberalism = {
+
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					NOT = {
+						has_government = fascism
+					}
+				}
+				
+			}
+
+			modifier = {
+				political_power_factor = 0.05
+				industrial_capacity_factory = 0.03
+				industrial_capacity_dockyard = 0.03
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					num_of_factories < 30
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		eliberalism = {
+
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					OR = {
+						has_government = democratic
+						has_government = neutrality
+					}
+				}
+			}
+
+			modifier = {
+				political_power_factor = 0.05
+				consumer_goods_factor = 0.15
+				industrial_capacity_factory = -0.05
+				industrial_capacity_dockyard = -0.05
+				production_speed_infrastructure_factor = 0.15
+				production_speed_industrial_complex_factor = 0.15
+				production_speed_arms_factory_factor = -0.05
+				production_speed_dockyard_factor = -0.05
+				production_speed_air_base_factor = 0.15
+				production_speed_supply_node_factor = 0.15
+				production_speed_naval_base_factor = 0.15
+				production_speed_anti_air_building_factor = 0.15
+				production_speed_radar_station_factor = 0.15
+				min_export = 0.1
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					has_government = democratic
+					num_of_factories > 50
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		capitalism = {
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					NOT = { has_government = communism }
+				}
+			}
+
+			modifier = {
+				stability_factor = -0.075
+				political_power_factor = 0.1
+				consumer_goods_factor = 0.2
+				industrial_capacity_factory = -0.075
+				industrial_capacity_dockyard = -0.075
+				production_speed_infrastructure_factor = 0.2
+				production_speed_industrial_complex_factor = 0.2
+				production_speed_arms_factory_factor = -0.1
+				production_speed_dockyard_factor = -0.1
+				production_speed_air_base_factor = 0.2
+				production_speed_supply_node_factor = 0.2
+				production_speed_naval_base_factor = 0.2
+				production_speed_anti_air_building_factor = 0.2
+				production_speed_radar_station_factor = 0.2
+				min_export = 0.15
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					num_of_factories > 75
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		elitism = {
+			available = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = BHOI_government_policies
+							option = LIMITED
+						}
+					}
+					NOT = { has_government = communism }
+				}
+			}
+
+			modifier = {
+				stability_factor = -0.1
+				political_power_factor = 0.15
+				consumer_goods_factor = 0.3
+				industrial_capacity_factory = -0.10
+				industrial_capacity_dockyard = -0.10
+				production_speed_infrastructure_factor = 0.25
+				production_speed_industrial_complex_factor = 0.25
+				production_speed_arms_factory_factor = -0.15
+				production_speed_dockyard_factor = -0.15
+				production_speed_air_base_factor = 0.25
+				production_speed_supply_node_factor = 0.25
+				production_speed_naval_base_factor = 0.25
+				production_speed_anti_air_building_factor = 0.25
+				production_speed_radar_station_factor = 0.25
+				min_export = 0.2
+			}
+
+			ai_will_do = {
+				factor = 1
+				modifier = {
+					num_of_factories > 125
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+	}
+}

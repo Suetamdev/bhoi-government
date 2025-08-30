@@ -1,0 +1,9 @@
+﻿l_braz_por:
+ RULE_GROUP_BHOI_GOVERNMENT:0 "BHOI - Governo"
+ RULE_BHOI_GOVERNMENT_POLICIES:0 "Restrições de Políticas"
+
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED:0 "Políticas Limitadas"
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED_DESC:0 "Restringe as políticas do governo."
+
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED:0 "Políticas Ilimitadas"
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED_DESC:0 "Sem restrições às políticas do governo."

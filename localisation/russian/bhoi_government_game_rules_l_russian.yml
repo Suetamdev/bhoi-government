@@ -1,0 +1,9 @@
+l_russian:
+ RULE_GROUP_BHOI_GOVERNMENT:0 "BHOI - Правительство"
+ RULE_BHOI_GOVERNMENT_POLICIES:0 "Ограничения политики"
+
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED:0 "Ограниченные политики"
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED_DESC:0 "Ограничивает государственную политику."
+
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED:0 "Неограниченные политики"
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED_DESC:0 "Нет ограничений на государственную политику."

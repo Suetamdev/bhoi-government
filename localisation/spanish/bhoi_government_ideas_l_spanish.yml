@@ -1,0 +1,462 @@
+﻿l_spanish:
+
+    #----#
+    #IDEAS
+    #----#
+    complementary_policies:0 "Políticas Complementarias"
+
+    #HIGH COUNCIL
+    cop_high_council:0 "Alto Consejo"
+
+    #LAWS
+    planning_stage:0 "Etapa de Planificación"
+    efficiency_burocracy:0 "Eficiencia Burocrática"
+    creation_of_guerrilas:0 "Creación de Guerrillas"
+    production_country:0 "Producción"
+    mobilization_country:0 "Movilización"
+    military_expansion:0 "Expansión Militar"
+    nationalism_country:0 "Nacionalismo"
+    covert_ops:0 "Operaciones Encubiertas"
+
+    #HEAD OF STATE
+    cop_head_of_state:0 "Jefe de Estado"
+
+    #LAWS
+    head_monarch:0 "Monarca"
+    head_prime_minister:0 "Primer Ministro"
+    head_president:0 "Presidente"
+    head_military:0 "Militar"
+    head_chairman:0 "Presidente del Consejo"
+
+    #TAXATION POLICY
+    cop_taxation_policy:0 "Política Fiscal"
+
+    #LAWS
+    very_high_taxation:0 "Muy Alta"
+    high_taxation:0 "Alta"
+    standard_taxation:0 "Estándar"
+    low_taxation:0 "Baja"
+    very_low_taxation:0 "Muy Baja"
+    communal_benefits:0 "Beneficios Comunales"
+
+    #MILITARY BUDGET
+    cop_military_budget:0 "Presupuesto Militar"
+
+    #LAWS
+    one_percent:0 "Uno por Ciento"
+    two_percent:0 "Dos por Ciento"
+    three_percent:0 "Tres por Ciento"
+    five_percent:0 "Cinco por Ciento"
+    ten_percent:0 "Diez por Ciento"
+
+    #OUTPUTS FOCUS
+    cop_output_focus:0 "Enfoque de Producción"
+
+    #LAWS
+    output_army_dominant:0 "Ejército Dominante"
+    output_army_strengthened:0 "Ejército Reforzado"
+    output_balanced:0 "Equilibrado"
+    output_navy_strengthened:0 "Marina Reforzada"
+    output_navy_dominant:0 "Marina Dominante"
+
+    #PENAL SYSTEM
+    cop_penal_system:0 "Sistema Penal"
+
+    #LAWS
+    penal_slavery:0 "Esclavitud"
+    penal_capital_punishment:0 "Pena de Muerte"
+    penal_labour:0 "Trabajo Forzado"
+    penal_incarceration:0 "Encarcelamiento"
+    penal_rehabilitation:0 "Rehabilitación"
+    penal_recruitment:0 "Reclutamiento"
+
+    #----#
+    #IDEAS
+    #----#
+    military_recruitment:0 "Reclutamiento Militar"
+
+    #SERVICE EXEMPTION
+    mr_recruitment_standard:0 "Exención de Servicio"
+
+    #LAWS
+    healthy_standard:0 "Saludable"
+    loose_standard:0 "Flexible"
+    no_exemptions:0 "Sin Exenciones"
+    scraping_the_barrel_standard:0 "Últimos Recursos"
+
+    #SERVICE LIMIT
+    mr_service_limit:0 "Límite de Servicio"
+
+    #LAWS
+    limited_service:0 "Servicio Limitado"
+    wartime_service:0 "Servicio Extendido"
+    shake_and_bake:0 "Rotación de Veteranos"
+
+    #ENLISTMENT AGE
+    mr_minimum_age:0 "Edad de Enlistamiento"
+
+    #LAWS
+    age_19:0 "19"
+    age_18:0 "18"
+    age_17:0 "17"
+    age_16:0 "16"
+    age_15:0 "15"
+    age_14:0 "14"
+    all_must_serve_young:0 "Todos Deben Servir"
+
+    #RETIREMENT AGE
+    mr_maximum_age:0 "Edad de Retiro"
+
+    #LAWS
+    age_40:0 "40"
+    age_50:0 "50"
+    age_60:0 "60"
+    all_must_serve_old:0 "Todos Deben Servir"
+
+    #WOMEN
+    mr_role_of_women:0 "Ley de Derechos de la Mujer"
+
+    #LAWS
+    stay_at_home:0 "Quedarse en Casa"
+    women_workers:0 "Mujeres Trabajadoras"
+    women_auxillary:0 "Auxiliar Femenino"
+    limited_female_service:0 "Servicio Femenino Limitado"
+    egalitarian:0 "Igualitarismo"
+
+    #MERCENARIES
+    mr_mercenaries:0 "Reclutamiento de Mercenarios"
+
+    #LAWS
+    banned_mercenaries:0 "Prohibido"
+    limited_foreign_mercenaries:0 "Limitado"
+    extensive_foreign_mercenaries:0 "Extenso"
+
+    #----#
+    #IDEAS
+    #----#
+    government_policies:0 "Políticas Gubernamentales"
+
+    #MASS MEDIA POLICY
+    gp_mass_media:0 "Política de Medios Masivos"
+
+    #LAWS
+    mass_media_propaganda:0 "Propaganda del Gobierno"
+    mass_media_censorship:0 "Censura"
+    mass_media_free:0 "Prensa Libre"
+    mass_media_control:0 "Control de Sujetos"
+    mass_media_liberty:0 "Búsqueda de Libertad"
+    mass_media_empower_right:0 "Empoderar Derecha"
+    mass_media_empower_left:0 "Empoderar Izquierda"
+
+    #POPULATION GROWTH CONTROL
+    gp_population:0 "Control del Crecimiento Poblacional"
+
+    #LAWS
+    population_encourage:0 "Fomentar Crecimiento"
+    population_open:0 "Fronteras Abiertas"
+    population_pure:0 "Pureza Nacional"
+    population_controlled:0 "Tasa de Natalidad Controlada"
+
+    #EQUALITY OF PEOPLE
+    gp_equality:0 "Igualdad de las Personas"
+
+    #LAWS
+    equality_all:0 "Igualdad para Todos"
+    equality_segregation:0 "Segregación Racial"
+    equality_genocide:0 "Política de Genocidio"
+    equality_minority:0 "Represión de Minorías"
+
+    #ECONOMIC FREEDOM
+    gp_economic_freedom:0 "Libertad Económica"
+
+    #LAWS
+    collectivization:0 "Colectivización"
+    illiberalism:0 "Iliberalismo"
+    state_capitalism:0 "Capitalismo Estatal"
+    social_liberalism:0 "Liberalismo Social"
+    eliberalism:0 "Liberalismo"
+    capitalism:0 "Capitalismo"
+    elitism:0 "Elitismo"
+
+    #ECONOMIC BASE
+    gp_economic_base:0 "Base Económica"
+
+    #LAWS
+    agriculture:0 "Economía Agraria"
+    banking:0 "Banca y Paraísos Fiscales"
+    service_economy:0 "Pequeños Negocios"
+    natural_exports:0 "Exportación de Recursos Naturales"
+    enterprise:0 "Empresas"
+    manufacturing:0 "Manufactura"
+
+    #FINANCIAL COURSE
+    gp_finances:0 "Curso Financiero"
+
+    #LAWS
+    finances_science:0 "Apoyo a Científicos"
+    finances_army:0 "Financiamiento Militar"
+    finances_civilian:0 "Gastos Civiles"
+    finances_foreign:0 "Subvenciones Extranjeras"
+
+    #----#
+    #IDEAS
+    #----#
+    army_policies:0 "Políticas del Ejército"
+
+    #ARMY DOCTRINE
+    ap_doctrine_army:0 "Doctrina Militar"
+
+    #LAWS
+    doctrine_army_speed:0 "Guerra Relámpago"
+    doctrine_army_fire:0 "Choque y Pavor"
+    doctrine_army_wide:0 "Frente Unido"
+    doctrine_army_combined:0 "Futuro de la Guerra"
+    doctrine_army_plan:0 "Planificación Meticulosa"
+    doctrine_army_indirect:0 "Golpe Sorpresa"
+    doctrine_the_old_way:0 "Caballos al Frente"
+    doctrine_the_unthinkable_way:0 "Camino Inimaginable"
+    doctrine_trench_warfare:0 "Guerra de Trincheras"
+
+    #SOLDIERS TRAINING
+    ap_soldier_training:0 "Entrenamiento de Soldados"
+
+    #LAWS
+    soldier_full:0 "Completo"
+    soldier_basic:0 "Básico"
+    soldier_extended:0 "Extendido"
+    soldier_baptism:0 "Bautismo de Fuego"
+
+    #OFFICERS TRAINING
+    ap_officer_training:0 "Entrenamiento de Oficiales"
+
+    #LAWS
+    officer_attack:0 "Ataque"
+    officer_defense:0 "Defensa"
+    officer_planning:0 "Planificación"
+    officer_logistics:0 "Logística"
+
+    #SPECIAL FORCES ROLE
+    ap_spec_ops:0 "Rol de Fuerzas Especiales"
+
+    #LAWS
+    spec_ops_quantity:0 "Apoyo al Ejército"
+    spec_ops_quality:0 "Operaciones Especiales"
+    spec_ops_foreign:0 "Conflictos Extranjeros"
+    spec_ops_security:0 "Seguridad Interna"
+
+    #MANUFACTORY
+    ap_manufactory:0 "Método de Producción"
+
+    #LAWS
+    manufactory_light_tanks:0 "Tanque Ligero"
+    manufactory_medium_tanks:0 "Tanque Medio"
+    manufactory_heavy_tanks:0 "Tanque Pesado"
+    manufactory_super_heavy_tanks:0 "Super Tanque"
+    manufactory_amphibious_tanks:0 "Tanque Anfibio"
+    manufactory_railway_guns:0 "Cañón Ferroviario"
+    manufactory_support_vehicles:0 "Vehículos de Apoyo"
+
+    #VOLUNTEERS
+    ap_volunteers:0 "Voluntarios"
+
+    #LAWS
+    volunteers_no:0 "Sin Voluntarios"
+    volunteers_limited:0 "Fuerza Reducida"
+    volunteers_extended:0 "Fuerza Ampliada"
+
+    #----#
+    #IDEAS
+    #----#
+    navy_policies:0 "Políticas Navales"
+
+    #NAVAL DOCTRINE
+    np_doctrine_navy:0 "Doctrina Naval"
+
+    #LAWS
+    doctrine_navy_battle:0 "Batalla Naval"
+    doctrine_navy_raid:0 "Ataques a Convoy"
+    doctrine_navy_protect:0 "Protección Comercial"
+    doctrine_navy_strike:0 "Ataque a Bases"
+
+    #NAVY TRAINING
+    np_sailor_training:0 "Entrenamiento de Marineros"
+
+    #LAWS
+    sailor_training_theory:0 "Estudio Teórico"
+    sailor_training_practic:0 "Entrenamiento Práctico"
+    sailor_training_basic:0 "Básico"
+
+    #ADMIRAL TRAINING
+    np_admiral_training:0 "Entrenamiento de Almirantes"
+
+    #LAWS
+    admiral_attack:0 "Ataque"
+    admiral_defense:0 "Defensa"
+    admiral_maneuvering:0 "Maniobras"
+    admiral_coordination:0 "Coordinación"
+
+    #MARINES
+    np_marine_corps:0 "Infantería de Marina"
+
+    #LAWS
+    marine_corps_army:0 "Comando del Ejército"
+    marine_corps_navy:0 "Comando de la Marina"
+    marine_corps_spec:0 "Comando de Operaciones Especiales"
+
+    #SHIPYARD
+    np_shipyard:0 "Método de Producción"
+
+    #LAWS
+    shipyard_submarine:0 "Submarino"
+    shipyard_destroyer:0 "Destructor"
+    shipyard_screen_ship:0 "Buque de Escolta"
+    shipyard_carrier:0 "Portaaviones"
+    shipyard_heavy_cruiser:0 "Crucero Pesado"
+    shipyard_capital_ship:0 "Buque de Batalla"
+    shipyard_support_ships:0 "Buques de Apoyo"
+
+    #FLEET PRODUCTION
+    np_navy_production:0 "Producción de Flotas"
+
+    #LAWS
+    navy_production_normal:0 "Diseños Estándar"
+    navy_production_cheap:0 "Producción Barata"
+    navy_production_quality:0 "Fabricación de Calidad"
+    navy_production_no:0 "Producción Limitada"
+
+    #----#
+    #IDEAS
+    #----#
+    air_policies:0 "Políticas Aéreas"
+
+    #AIRFORCE DOCTRINE
+    aip_doctrine_air:0 "Doctrina Aérea"
+
+    #LAWS
+    doctrine_air_strategic:0 "Bombardeo Estratégico"
+    doctrine_air_land:0 "Apoyo a Tierra"
+    doctrine_air_fleet:0 "Apoyo a la Flota"
+    doctrine_air_defence:0 "Defensa Aérea"
+
+    #AIRFORCE TRAINING
+    aip_training_air:0 "Entrenamiento Aéreo"
+
+    #LAWS
+    training_air_theory:0 "Estudio Teórico"
+    training_air_practic:0 "Entrenamiento Práctico"
+    training_air_basic:0 "Básico"
+
+    #ACE TRAINING
+    aip_ace_training:0 "Entrenamiento de Ases"
+
+    #LAWS
+    training_everyone_ace:0 "Irregular"
+    training_standard_ace:0 "Normal"
+    training_elite_ace:0 "Élite"
+
+    #PARATROOPERS
+    aip_airborne:0 "Paracaidistas"
+
+    #LAWS
+    airborne_army:0 "Comando del Ejército"
+    airborne_air:0 "Comando Aéreo"
+    airborne_spec:0 "Comando de Operaciones Especiales"
+
+    #FLEET FOCUS
+    aip_fleet:0 "Método de Producción"
+
+    #LAWS
+    small_planes:0 "Pequeño"
+    medium_planes:0 "Mediano"
+    large_planes:0 "Grande"
+    support_planes:0 "Apoyo"
+
+    #PLANES PRODUCTION
+    aip_air_production:0 "Producción de Aviones"
+
+    #LAWS
+    air_production_normal:0 "Diseños Estándar"
+    air_production_cheap:0 "Producción Barata"
+    air_production_quality:0 "Fabricación de Calidad"
+    air_production_no:0 "Producción Limitada"
+
+    #----#
+    #IDEAS
+    #----#
+    civilian_policies:0 "Políticas Civiles"
+
+    #CONSTRUCTION FOCUS
+    cp_build_focus:0 "Enfoque de Construcción"
+
+    #LAWS
+    focus_civilian:0 "Complejo Industrial"
+    focus_military:0 "Edificios Militares"
+    focus_defense:0 "Defensas"
+    focus_infrastructure:0 "Infraestructura"
+    focus_resources:0 "Extracción de Recursos"
+
+    #WORK HOUR LIMIT
+    cp_work_hour_limit:0 "Límite de Horas Laborales"
+
+    #LAWS
+    hour_no_limit:0 "Sin Límite"
+    hour_limit_14:0 "14 Horas"
+    hour_limit_12:0 "12 Horas"
+    hour_limit_10:0 "10 Horas"
+    hour_limit_8:0 "8 Horas"
+
+    #EDUCATION
+    cp_education:0 "Educación"
+
+    #LAWS
+    education_priveleged:0 "Privilegiada"
+    education_cheap:0 "Barata"
+    education_religious:0 "Religiosa"
+    education_military:0 "Militar"
+    education_propagandized:0 "Propagandizada"
+    education_standard:0 "Estándar"
+    education_excessive:0 "Excesiva"
+
+    #HEALTHCARE
+    cp_healthcare:0 "Atención Sanitaria"
+
+    #LAWS
+    healthcare_no:0 "Ninguna"
+    healthcare_private:0 "Privada"
+    healthcare_public_bad:0 "Pública Mala"
+    healthcare_public_decent:0 "Pública Decente"
+    healthcare_public_good:0 "Pública Buena"
+
+    #Synthetic Resources Focus - 1
+    cp_synthetic_resources_focus_1:0 "Enfoque de Recursos Sintéticos - 1"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_1:0 "Aluminio"
+    synthetic_resources_focus_chromium_1:0 "Cromo"
+    synthetic_resources_focus_oil_1:0 "Petróleo"
+    synthetic_resources_focus_rubber_1:0 "Caucho"
+    synthetic_resources_focus_steel_1:0 "Acero"
+    synthetic_resources_focus_tungsten_1:0 "Tungsteno"
+
+    #Synthetic Resources Focus - 2
+    cp_synthetic_resources_focus_2:0 "Enfoque de Recursos Sintéticos - 2"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_2:0 "Aluminio"
+    synthetic_resources_focus_chromium_2:0 "Cromo"
+    synthetic_resources_focus_oil_2:0 "Petróleo"
+    synthetic_resources_focus_rubber_2:0 "Caucho"
+    synthetic_resources_focus_steel_2:0 "Acero"
+    synthetic_resources_focus_tungsten_2:0 "Tungsteno"
+
+    #----#
+    #UNITS
+    #----#
+    mercenary:0 "Mercenarios"
+    mercenary_desc:0 "Un ejército que sigue a quien paga"
+
+    #----#
+    #SCRIPTED EVENTS
+    #----#
+    BG_mercenary_limited_contract:0 "Añadir la división mercenaria limitada \n"
+    BG_mercenary_extend_contract:0 "Extender el límite de la división mercenaria \n"

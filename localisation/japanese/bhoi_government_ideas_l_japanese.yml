@@ -1,0 +1,462 @@
+﻿l_japanese:
+
+    #----#
+    #IDEAS
+    #----#
+    complementary_policies:0 "補完政策"
+
+    #HIGH COUNCIL
+    cop_high_council:0 "最高評議会"
+
+    #LAWS
+    planning_stage:0 "計画段階"
+    efficiency_burocracy:0 "官僚効率"
+    creation_of_guerrilas:0 "ゲリラ創設"
+    production_country:0 "生産"
+    mobilization_country:0 "動員"
+    military_expansion:0 "軍事拡張"
+    nationalism_country:0 "国家主義"
+    covert_ops:0 "秘密作戦"
+
+    #HEAD OF STATE
+    cop_head_of_state:0 "国家元首"
+
+    #LAWS
+    head_monarch:0 "君主"
+    head_prime_minister:0 "首相"
+    head_president:0 "大統領"
+    head_military:0 "軍事"
+    head_chairman:0 "議長"
+
+    #TAXATION POLICY
+    cop_taxation_policy:0 "課税政策"
+
+    #LAWS
+    very_high_taxation:0 "非常に高い"
+    high_taxation:0 "高い"
+    standard_taxation:0 "標準"
+    low_taxation:0 "低い"
+    very_low_taxation:0 "非常に低い"
+    communal_benefits:0 "共同利益"
+
+    #MILITARY BUDGET
+    cop_military_budget:0 "軍事予算"
+
+    #LAWS
+    one_percent:0 "1％"
+    two_percent:0 "2％"
+    three_percent:0 "3％"
+    five_percent:0 "5％"
+    ten_percent:0 "10％"
+
+    #OUTPUTS FOCUS
+    cop_output_focus:0 "生産重点"
+
+    #LAWS
+    output_army_dominant:0 "陸軍優先"
+    output_army_strengthened:0 "陸軍強化"
+    output_balanced:0 "バランス"
+    output_navy_strengthened:0 "海軍強化"
+    output_navy_dominant:0 "海軍優先"
+
+    #PENAL SYSTEM
+    cop_penal_system:0 "刑罰制度"
+
+    #LAWS
+    penal_slavery:0 "奴隷制"
+    penal_capital_punishment:0 "死刑"
+    penal_labour:0 "労働"
+    penal_incarceration:0 "投獄"
+    penal_rehabilitation:0 "更生"
+    penal_recruitment:0 "徴兵"
+
+    #----#
+    #IDEAS
+    #----#
+    military_recruitment:0 "軍事徴募"
+
+    #SERVICE EXEMPTION
+    mr_recruitment_standard:0 "免除基準"
+
+    #LAWS
+    healthy_standard:0 "健康"
+    loose_standard:0 "緩やか"
+    no_exemptions:0 "免除なし"
+    scraping_the_barrel_standard:0 "最後の手段"
+
+    #SERVICE LIMIT
+    mr_service_limit:0 "服務期間"
+
+    #LAWS
+    limited_service:0 "限定服務"
+    wartime_service:0 "戦時服務"
+    shake_and_bake:0 "退役兵ローテーション"
+
+    #ENLISTMENT AGE
+    mr_minimum_age:0 "入隊年齢"
+
+    #LAWS
+    age_19:0 "19歳"
+    age_18:0 "18歳"
+    age_17:0 "17歳"
+    age_16:0 "16歳"
+    age_15:0 "15歳"
+    age_14:0 "14歳"
+    all_must_serve_young:0 "全員徴兵"
+
+    #RETIREMENT AGE
+    mr_maximum_age:0 "退役年齢"
+
+    #LAWS
+    age_40:0 "40歳"
+    age_50:0 "50歳"
+    age_60:0 "60歳"
+    all_must_serve_old:0 "全員勤務"
+
+    #WOMEN
+    mr_role_of_women:0 "女性の権利"
+
+    #LAWS
+    stay_at_home:0 "家庭専念"
+    women_workers:0 "女性労働者"
+    women_auxillary:0 "女性補助兵"
+    limited_female_service:0 "女性限定勤務"
+    egalitarian:0 "平等主義"
+
+    #MERCENARIES
+    mr_mercenaries:0 "傭兵募集"
+
+    #LAWS
+    banned_mercenaries:0 "禁止"
+    limited_foreign_mercenaries:0 "制限付き"
+    extensive_foreign_mercenaries:0 "広範囲"
+
+    #----#
+    #IDEAS
+    #----#
+    government_policies:0 "政府政策"
+
+    #MASS MEDIA POLICY
+    gp_mass_media:0 "マスメディア政策"
+
+    #LAWS
+    mass_media_propaganda:0 "政府宣伝"
+    mass_media_censorship:0 "検閲"
+    mass_media_free:0 "自由報道"
+    mass_media_control:0 "国民統制"
+    mass_media_liberty:0 "自由追求"
+    mass_media_empower_right:0 "保守強化"
+    mass_media_empower_left:0 "革新強化"
+
+    #POPULATION GROWTH CONTROL
+    gp_population:0 "人口増加管理"
+
+    #LAWS
+    population_encourage:0 "人口増加奨励"
+    population_open:0 "開放国境"
+    population_pure:0 "民族純粋"
+    population_controlled:0 "出生率管理"
+
+    #EQUALITY OF PEOPLE
+    gp_equality:0 "人々の平等"
+
+    #LAWS
+    equality_all:0 "すべての人に平等"
+    equality_segregation:0 "人種隔離"
+    equality_genocide:0 "ジェノサイド政策"
+    equality_minority:0 "少数派抑圧"
+
+    #ECONOMIC FREEDOM
+    gp_economic_freedom:0 "経済自由"
+
+    #LAWS
+    collectivization:0 "集団化"
+    illiberalism:0 "非自由主義"
+    state_capitalism:0 "国家資本主義"
+    social_liberalism:0 "社会自由主義"
+    eliberalism:0 "自由主義"
+    capitalism:0 "資本主義"
+    elitism:0 "エリート主義"
+
+    #ECONOMIC BASE
+    gp_economic_base:0 "経済基盤"
+
+    #LAWS
+    agriculture:0 "農業経済"
+    banking:0 "銀行・租税回避"
+    service_economy:0 "小規模企業"
+    natural_exports:0 "天然資源輸出"
+    enterprise:0 "企業・事業"
+    manufacturing:0 "製造業"
+
+    #FINANCIAL COURSE
+    gp_finances:0 "財政方針"
+
+    #LAWS
+    finances_science:0 "科学支援"
+    finances_army:0 "軍事費"
+    finances_civilian:0 "民間支出"
+    finances_foreign:0 "外国補助"
+
+    #----#
+    #IDEAS
+    #----#
+    army_policies:0 "陸軍政策"
+
+    #ARMY DOCTRINE
+    ap_doctrine_army:0 "陸軍教義"
+
+    #LAWS
+    doctrine_army_speed:0 "電撃戦"
+    doctrine_army_fire:0 "衝撃戦"
+    doctrine_army_wide:0 "統一戦線"
+    doctrine_army_combined:0 "未来戦術"
+    doctrine_army_plan:0 "綿密な計画"
+    doctrine_army_indirect:0 "奇襲"
+    doctrine_the_old_way:0 "前線騎馬"
+    doctrine_the_unthinkable_way:0 "非常識戦法"
+    doctrine_trench_warfare:0 "塹壕戦"
+
+    #SOLDIERS TRAINING     
+    ap_soldier_training:0 "兵士訓練"
+
+    #LAWS
+    soldier_full:0 "完全"
+    soldier_basic:0 "基礎"
+    soldier_extended:0 "拡張"
+    soldier_baptism:0 "実戦経験"
+
+    #OFFICERS TRAINING
+    ap_officer_training:0 "将校訓練"
+
+    #LAWS
+    officer_attack:0 "攻撃"
+    officer_defense:0 "防御"
+    officer_planning:0 "計画"
+    officer_logistics:0 "後方支援"
+
+    #SPECIAL FORCES ROLE
+    ap_spec_ops:0 "特殊部隊"
+
+    #LAWS
+    spec_ops_quantity:0 "陸軍支援"
+    spec_ops_quality:0 "特殊作戦"
+    spec_ops_foreign:0 "海外作戦"
+    spec_ops_security:0 "国内治安"
+
+    #MANUFACTORY
+    ap_manufactory:0 "生産方法"
+
+    #LAWS
+    manufactory_light_tanks:0 "軽戦車"
+    manufactory_medium_tanks:0 "中戦車"
+    manufactory_heavy_tanks:0 "重戦車"
+    manufactory_super_heavy_tanks:0 "超重戦車"
+    manufactory_amphibious_tanks:0 "水陸両用戦車"
+    manufactory_railway_guns:0 "列車砲"
+    manufactory_support_vehicles:0 "支援車両"
+
+    #VOLUNTEERS
+    ap_volunteers:0 "志願兵"
+
+    #LAWS
+    volunteers_no:0 "なし"
+    volunteers_limited:0 "少数"
+    volunteers_extended:0 "多数"
+
+    #----#
+    #IDEAS
+    #----#
+    navy_policies:0 "海軍政策"
+
+    #NAVAL DOCTRINE
+    np_doctrine_navy:0 "海軍教義"
+
+    #LAWS
+    doctrine_navy_battle:0 "海戦"
+    doctrine_navy_raid:0 "船団襲撃"
+    doctrine_navy_protect:0 "貿易護衛"
+    doctrine_navy_strike:0 "基地攻撃"
+
+    #NAVY TRAINING
+    np_sailor_training:0 "水兵訓練"
+
+    #LAWS
+    sailor_training_theory:0 "理論学習"
+    sailor_training_practic:0 "実践訓練"
+    sailor_training_basic:0 "基礎"
+
+    #ADMIRAL TRAINING
+    np_admiral_training:0 "提督訓練"
+
+    #LAWS
+    admiral_attack:0 "攻撃"
+    admiral_defense:0 "防御"
+    admiral_maneuvering:0 "機動"
+    admiral_coordination:0 "調整"
+
+    #MARINES
+    np_marine_corps:0 "海兵隊"
+
+    #LAWS
+    marine_corps_army:0 "陸軍指揮"
+    marine_corps_navy:0 "海軍指揮"
+    marine_corps_spec:0 "特殊部隊指揮"
+
+    #SHIPYARD
+    np_shipyard:0 "生産方法"
+
+    #LAWS
+    shipyard_submarine:0 "潜水艦"
+    shipyard_destroyer:0 "駆逐艦"
+    shipyard_screen_ship:0 "護衛艦"
+    shipyard_carrier:0 "空母"
+    shipyard_heavy_cruiser:0 "重巡洋艦"
+    shipyard_capital_ship:0 "主力艦"
+    shipyard_support_ships:0 "補助艦"
+
+    #FLEET PRODUCTION
+    np_navy_production:0 "艦隊生産"
+
+    #LAWS
+    navy_production_normal:0 "標準設計"
+    navy_production_cheap:0 "廉価生産"
+    navy_production_quality:0 "高品質生産"
+    navy_production_no:0 "制限生産"
+
+    #----#
+    #IDEAS
+    #----#
+    air_policies:0 "空軍政策"
+
+    #AIRFORCE DOCTRINE
+    aip_doctrine_air:0 "空軍教義"
+
+    #LAWS
+    doctrine_air_strategic:0 "戦略爆撃"
+    doctrine_air_land:0 "陸軍支援"
+    doctrine_air_fleet:0 "艦隊支援"
+    doctrine_air_defence:0 "防空"
+
+    #AIRFORCE TRAINING
+    aip_training_air:0 "航空隊訓練"
+
+    #LAWS
+    training_air_theory:0 "理論学習"
+    training_air_practic:0 "実践訓練"
+    training_air_basic:0 "基礎"
+
+    #ACE TRAINING
+    aip_ace_training:0 "エース訓練"
+
+    #LAWS
+    training_everyone_ace:0 "不規則"
+    training_standard_ace:0 "通常"
+    training_elite_ace:0 "エリート"
+
+    #PARATROOPERS
+    aip_airborne:0 "空挺部隊"
+
+    #LAWS
+    airborne_army:0 "陸軍指揮"
+    airborne_air:0 "空軍指揮"
+    airborne_spec:0 "特殊部隊指揮"
+
+    #FLEET FOCUS
+    aip_fleet:0 "生産方法"
+
+    #LAWS
+    small_planes:0 "小型"
+    medium_planes:0 "中型"
+    large_planes:0 "大型"
+    support_planes:0 "支援"
+
+    #PLANES PRODUCTION
+    aip_air_production:0 "航空機生産"
+
+    #LAWS
+    air_production_normal:0 "標準設計"
+    air_production_cheap:0 "廉価生産"
+    air_production_quality:0 "高品質生産"
+    air_production_no:0 "制限生産"
+
+    #----#
+    #IDEAS
+    #----#
+    civilian_policies:0 "民間政策"
+
+    #CONSTRUCTION FOCUS
+    cp_build_focus:0 "建設重点"
+
+    #LAWS
+    focus_civilian:0 "産業施設"
+    focus_military:0 "軍事施設"
+    focus_defense:0 "防衛施設"
+    focus_infrastructure:0 "インフラ"
+    focus_resources:0 "資源採取"
+
+    #WORK HOUR LIMIT
+    cp_work_hour_limit:0 "労働時間制限"
+
+    #LAWS
+    hour_no_limit:0 "制限なし"
+    hour_limit_14:0 "14時間"
+    hour_limit_12:0 "12時間"
+    hour_limit_10:0 "10時間"
+    hour_limit_8:0 "8時間"
+
+    #EDUCATION
+    cp_education:0 "教育"
+
+    #LAWS
+    education_priveleged:0 "特権教育"
+    education_cheap:0 "廉価教育"
+    education_religious:0 "宗教教育"
+    education_military:0 "軍事教育"
+    education_propagandized:0 "宣伝教育"
+    education_standard:0 "標準教育"
+    education_excessive:0 "過剰教育"
+
+    #HEALTHCARE
+    cp_healthcare:0 "医療"
+
+    #LAWS
+    healthcare_no:0 "なし"
+    healthcare_private:0 "私営"
+    healthcare_public_bad:0 "公営（劣）"
+    healthcare_public_decent:0 "公営（可）"
+    healthcare_public_good:0 "公営（良）"
+
+    #Synthetic Resources Focus - 1
+    cp_synthetic_resources_focus_1:0 "合成資源重点 - 1"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_1:0 "アルミニウム"
+    synthetic_resources_focus_chromium_1:0 "クロム"
+    synthetic_resources_focus_oil_1:0 "石油"
+    synthetic_resources_focus_rubber_1:0 "ゴム"
+    synthetic_resources_focus_steel_1:0 "鉄鋼"
+    synthetic_resources_focus_tungsten_1:0 "タングステン"
+
+    #Synthetic Resources Focus - 2
+    cp_synthetic_resources_focus_2:0 "合成資源重点 - 2"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_2:0 "アルミニウム"
+    synthetic_resources_focus_chromium_2:0 "クロム"
+    synthetic_resources_focus_oil_2:0 "石油"
+    synthetic_resources_focus_rubber_2:0 "ゴム"
+    synthetic_resources_focus_steel_2:0 "鉄鋼"
+    synthetic_resources_focus_tungsten_2:0 "タングステン"
+
+    #----#
+    #UNITS
+    #----#
+    mercenary:0 "傭兵"
+    mercenary_desc:0 "金を払う者に従う軍隊"
+
+    #----#
+    #SCRIPTED EVENTS
+    #----#
+    BG_mercenary_limited_contract:0 "限定傭兵師団を追加 \n"
+    BG_mercenary_extend_contract:0 "傭兵師団の上限を拡張 \n"

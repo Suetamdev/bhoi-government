@@ -1,0 +1,9 @@
+﻿l_english:
+ RULE_GROUP_BHOI_GOVERNMENT:0 "BHOI - Government"
+ RULE_BHOI_GOVERNMENT_POLICIES:0 "Policies Restrictions"
+
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED:0 "Limited Policies"
+ RULE_OPTION_BHOI_GOVERNMENT_LIMITED_DESC:0 "Restricts government policies."
+
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED:0 "Unlimited Policies"
+ RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED_DESC:0 "No restrictions on government policies."

@@ -1,0 +1,462 @@
+﻿l_russian:
+
+    #----#
+    #IDEAS
+    #----#
+    complementary_policies:0 "Дополнительные политики"
+
+    #HIGH COUNCIL
+    cop_high_council:0 "Высокий Совет"
+
+    #LAWS
+    planning_stage:0 "Этап планирования"
+    efficiency_burocracy:0 "Эффективность бюрократии"
+    creation_of_guerrilas:0 "Создание партизан"
+    production_country:0 "Производство"
+    mobilization_country:0 "Мобилизация"
+    military_expansion:0 "Военная экспансия"
+    nationalism_country:0 "Национализм"
+    covert_ops:0 "Секретные операции"
+
+    #HEAD OF STATE
+    cop_head_of_state:0 "Глава государства"
+
+    #LAWS
+    head_monarch:0 "Монарх"
+    head_prime_minister:0 "Премьер-министр"
+    head_president:0 "Президент"
+    head_military:0 "Военный"
+    head_chairman:0 "Председатель"
+
+    #TAXATION POLICY
+    cop_taxation_policy:0 "Налоговая политика"
+
+    #LAWS
+    very_high_taxation:0 "Очень высокий"
+    high_taxation:0 "Высокий"
+    standard_taxation:0 "Стандартный"
+    low_taxation:0 "Низкий"
+    very_low_taxation:0 "Очень низкий"
+    communal_benefits:0 "Коммунальные льготы"
+
+    #MILITARY BUDGET
+    cop_military_budget:0 "Военный бюджет"
+
+    #LAWS
+    one_percent:0 "Один процент"
+    two_percent:0 "Два процента"
+    three_percent:0 "Три процента"
+    five_percent:0 "Пять процентов"
+    ten_percent:0 "Десять процентов"
+
+    #OUTPUTS FOCUS
+    cop_output_focus:0 "Фокус производства"
+
+    #LAWS
+    output_army_dominant:0 "Приоритет армии"
+    output_army_strengthened:0 "Усиленная армия"
+    output_balanced:0 "Сбалансировано"
+    output_navy_strengthened:0 "Усиленный флот"
+    output_navy_dominant:0 "Приоритет флота"
+
+    #PENAL SYSTEM
+    cop_penal_system:0 "Система наказаний"
+
+    #LAWS
+    penal_slavery:0 "Рабство"
+    penal_capital_punishment:0 "Смертная казнь"
+    penal_labour:0 "Принудительный труд"
+    penal_incarceration:0 "Заключение"
+    penal_rehabilitation:0 "Реабилитация"
+    penal_recruitment:0 "Призыв"
+
+    #----#
+    #IDEAS
+    #----#
+    military_recruitment:0 "Военный призыв"
+
+    #SERVICE EXEMPTION
+    mr_recruitment_standard:0 "Освобождение от службы"
+
+    #LAWS
+    healthy_standard:0 "Здоровые"
+    loose_standard:0 "Ослабленные"
+    no_exemptions:0 "Без освобождений"
+    scraping_the_barrel_standard:0 "Последние"
+
+    #SERVICE LIMIT
+    mr_service_limit:0 "Лимит службы"
+
+    #LAWS
+    limited_service:0 "Ограниченная служба"
+    wartime_service:0 "Продленная служба"
+    shake_and_bake:0 "Цикл ветеранов"
+
+    #ENLISTMENT AGE
+    mr_minimum_age:0 "Возраст призыва"
+
+    #LAWS
+    age_19:0 "19"
+    age_18:0 "18"
+    age_17:0 "17"
+    age_16:0 "16"
+    age_15:0 "15"
+    age_14:0 "14"
+    all_must_serve_young:0 "Все должны служить"
+
+    #RETIREMENT AGE
+    mr_maximum_age:0 "Возраст выхода на пенсию"
+
+    #LAWS
+    age_40:0 "40"
+    age_50:0 "50"
+    age_60:0 "60"
+    all_must_serve_old:0 "Все должны служить"
+
+    #WOMEN
+    mr_role_of_women:0 "Права женщин"
+
+    #LAWS
+    stay_at_home:0 "Оставаться дома"
+    women_workers:0 "Женщины-работницы"
+    women_auxillary:0 "Вспомогательная роль женщин"
+    limited_female_service:0 "Ограниченная служба женщин"
+    egalitarian:0 "Эгалитаризм"
+
+    #MERCENARIES
+    mr_mercenaries:0 "Найм наемников"
+
+    #LAWS
+    banned_mercenaries:0 "Запрещено"
+    limited_foreign_mercenaries:0 "Ограничено"
+    extensive_foreign_mercenaries:0 "Расширено"
+
+    #----#
+    #IDEAS
+    #----#
+    government_policies:0 "Политика правительства"
+
+    #MASS MEDIA POLICY
+    gp_mass_media:0 "Политика СМИ"
+
+    #LAWS
+    mass_media_propaganda:0 "Правительственная пропаганда"
+    mass_media_censorship:0 "Цензура"
+    mass_media_free:0 "Свободная пресса"
+    mass_media_control:0 "Контроль над подданными"
+    mass_media_liberty:0 "Стремление к свободе"
+    mass_media_empower_right:0 "Усиление правых"
+    mass_media_empower_left:0 "Усиление левых"
+
+    #POPULATION GROWTH CONTROL
+    gp_population:0 "Контроль роста населения"
+
+    #LAWS
+    population_encourage:0 "Стимулировать рост"
+    population_open:0 "Открытые границы"
+    population_pure:0 "Национальная чистота"
+    population_controlled:0 "Контролируемый рождаемость"
+
+    #EQUALITY OF PEOPLE
+    gp_equality:0 "Равенство людей"
+
+    #LAWS
+    equality_all:0 "Равенство для всех"
+    equality_segregation:0 "Расовая сегрегация"
+    equality_genocide:0 "Политика геноцида"
+    equality_minority:0 "Подавление меньшинств"
+
+    #ECONOMIC FREEDOM
+    gp_economic_freedom:0 "Экономическая свобода"
+
+    #LAWS
+    collectivization:0 "Коллективизация"
+    illiberalism:0 "Нелиберализм"
+    state_capitalism:0 "Государственный капитализм"
+    social_liberalism:0 "Социальный либерализм"
+    eliberalism:0 "Либерализм"
+    capitalism:0 "Капитализм"
+    elitism:0 "Элитизм"
+
+    #ECONOMIC BASE
+    gp_economic_base:0 "Экономическая база"
+
+    #LAWS
+    agriculture:0 "Аграрная экономика"
+    banking:0 "Банковская система и налоговые убежища"
+    service_economy:0 "Малый бизнес"
+    natural_exports:0 "Экспорт природных ресурсов"
+    enterprise:0 "Бизнес и предприятия"
+    manufacturing:0 "Производство"
+
+    #FINANCIAL COURSE
+    gp_finances:0 "Финансовый курс"
+
+    #LAWS
+    finances_science:0 "Поддержка науки"
+    finances_army:0 "Финансирование армии"
+    finances_civilian:0 "Расходы на гражданские нужды"
+    finances_foreign:0 "Иностранные субсидии"
+
+    #----#
+    #IDEAS
+    #----#
+    army_policies:0 "Политика армии"
+
+    #ARMY DOCTRINE
+    ap_doctrine_army:0 "Доктрина армии"
+
+    #LAWS
+    doctrine_army_speed:0 "Молниеносная война"
+    doctrine_army_fire:0 "Шок и трепет"
+    doctrine_army_wide:0 "Единый фронт"
+    doctrine_army_combined:0 "Будущее войны"
+    doctrine_army_plan:0 "Тщательное планирование"
+    doctrine_army_indirect:0 "Внезапный удар"
+    doctrine_the_old_way:0 "Лошади впереди"
+    doctrine_the_unthinkable_way:0 "Непостижимый путь"
+    doctrine_trench_warfare:0 "Траншейная война"
+
+    #SOLDIERS TRAINING
+    ap_soldier_training:0 "Обучение солдат"
+
+    #LAWS
+    soldier_full:0 "Полное"
+    soldier_basic:0 "Базовое"
+    soldier_extended:0 "Расширенное"
+    soldier_baptism:0 "Огненное крещение"
+
+    #OFFICERS TRAINING
+    ap_officer_training:0 "Обучение офицеров"
+
+    #LAWS
+    officer_attack:0 "Атака"
+    officer_defense:0 "Оборона"
+    officer_planning:0 "Планирование"
+    officer_logistics:0 "Логистика"
+
+    #SPECIAL FORCES ROLE
+    ap_spec_ops:0 "Роль спецназа"
+
+    #LAWS
+    spec_ops_quantity:0 "Поддержка армии"
+    spec_ops_quality:0 "Специальные операции"
+    spec_ops_foreign:0 "Иностранные конфликты"
+    spec_ops_security:0 "Внутренняя безопасность"
+
+    #MANUFACTORY
+    ap_manufactory:0 "Метод производства"
+
+    #LAWS
+    manufactory_light_tanks:0 "Легкий танк"
+    manufactory_medium_tanks:0 "Средний танк"
+    manufactory_heavy_tanks:0 "Тяжелый танк"
+    manufactory_super_heavy_tanks:0 "Супертяжелый танк"
+    manufactory_amphibious_tanks:0 "Плавающий танк"
+    manufactory_railway_guns:0 "Железнодорожная пушка"
+    manufactory_support_vehicles:0 "Техника поддержки"
+
+    #VOLUNTEERS
+    ap_volunteers:0 "Добровольцы"
+
+    #LAWS
+    volunteers_no:0 "Нет добровольцев"
+    volunteers_limited:0 "Небольшая сила"
+    volunteers_extended:0 "Большая сила"
+
+    #----#
+    #IDEAS
+    #----#
+    navy_policies:0 "Политика флота"
+
+    #NAVAL DOCTRINE
+    np_doctrine_navy:0 "Доктрина флота"
+
+    #LAWS
+    doctrine_navy_battle:0 "Морское сражение"
+    doctrine_navy_raid:0 "Атака конвоев"
+    doctrine_navy_protect:0 "Защита торговли"
+    doctrine_navy_strike:0 "Удар по базам"
+
+    #NAVY TRAINING
+    np_sailor_training:0 "Обучение моряков"
+
+    #LAWS
+    sailor_training_theory:0 "Теоретическое обучение"
+    sailor_training_practic:0 "Практическое обучение"
+    sailor_training_basic:0 "Базовое обучение"
+
+    #ADMIRAL TRAINING
+    np_admiral_training:0 "Обучение адмиралов"
+
+    #LAWS
+    admiral_attack:0 "Атака"
+    admiral_defense:0 "Оборона"
+    admiral_maneuvering:0 "Маневрирование"
+    admiral_coordination:0 "Координация"
+
+    #MARINES
+    np_marine_corps:0 "Морская пехота"
+
+    #LAWS
+    marine_corps_army:0 "Командование армией"
+    marine_corps_navy:0 "Командование флотом"
+    marine_corps_spec:0 "Командование спецназом"
+
+    #SHIPYARD
+    np_shipyard:0 "Метод производства"
+
+    #LAWS
+    shipyard_submarine:0 "Подводная лодка"
+    shipyard_destroyer:0 "Эсминец"
+    shipyard_screen_ship:0 "Эскортный корабль"
+    shipyard_carrier:0 "Авианосец"
+    shipyard_heavy_cruiser:0 "Тяжелый крейсер"
+    shipyard_capital_ship:0 "Главный корабль"
+    shipyard_support_ships:0 "Служебные корабли"
+
+    #FLEET PRODUCTION
+    np_navy_production:0 "Производство флота"
+
+    #LAWS
+    navy_production_normal:0 "Стандартные конструкции"
+    navy_production_cheap:0 "Дешевое производство"
+    navy_production_quality:0 "Качественное производство"
+    navy_production_no:0 "Ограниченное производство"
+
+    #----#
+    #IDEAS
+    #----#
+    air_policies:0 "Политика авиации"
+
+    #AIRFORCE DOCTRINE
+    aip_doctrine_air:0 "Доктрина авиации"
+
+    #LAWS
+    doctrine_air_strategic:0 "Стратегическая бомбардировка"
+    doctrine_air_land:0 "Поддержка сухопутных войск"
+    doctrine_air_fleet:0 "Поддержка флота"
+    doctrine_air_defence:0 "Противовоздушная оборона"
+
+    #AIRFORCE TRAINING
+    aip_training_air:0 "Обучение авиации"
+
+    #LAWS
+    training_air_theory:0 "Теоретическое обучение"
+    training_air_practic:0 "Практическое обучение"
+    training_air_basic:0 "Базовое обучение"
+
+    #ACE TRAINING
+    aip_ace_training:0 "Подготовка асов"
+
+    #LAWS
+    training_everyone_ace:0 "Нерегулярные"
+    training_standard_ace:0 "Стандартные"
+    training_elite_ace:0 "Элитные"
+
+    #PARATROOPERS
+    aip_airborne:0 "Десантники"
+
+    #LAWS
+    airborne_army:0 "Командование армией"
+    airborne_air:0 "Командование авиацией"
+    airborne_spec:0 "Командование спецназом"
+
+    #FLEET FOCUS
+    aip_fleet:0 "Метод производства"
+
+    #LAWS
+    small_planes:0 "Малые"
+    medium_planes:0 "Средние"
+    large_planes:0 "Большие"
+    support_planes:0 "Поддержка"
+
+    #PLANES PRODUCTION
+    aip_air_production:0 "Производство самолетов"
+
+    #LAWS
+    air_production_normal:0 "Стандартные конструкции"
+    air_production_cheap:0 "Дешевое производство"
+    air_production_quality:0 "Качественное производство"
+    air_production_no:0 "Ограниченное производство"
+
+    #----#
+    #IDEAS
+    #----#
+    civilian_policies:0 "Политика гражданских"
+
+    #CONSTRUCTION FOCUS
+    cp_build_focus:0 "Фокус строительства"
+
+    #LAWS
+    focus_civilian:0 "Промышленный комплекс"
+    focus_military:0 "Военные здания"
+    focus_defense:0 "Оборона"
+    focus_infrastructure:0 "Инфраструктура"
+    focus_resources:0 "Добыча ресурсов"
+
+    #WORK HOUR LIMIT
+    cp_work_hour_limit:0 "Ограничение рабочих часов"
+
+    #LAWS
+    hour_no_limit:0 "Без ограничения"
+    hour_limit_14:0 "14 часов"
+    hour_limit_12:0 "12 часов"
+    hour_limit_10:0 "10 часов"
+    hour_limit_8:0 "8 часов"
+
+    #EDUCATION
+    cp_education:0 "Образование"
+
+    #LAWS
+    education_priveleged:0 "Привилегированное"
+    education_cheap:0 "Дешевое"
+    education_religious:0 "Религиозное"
+    education_military:0 "Военное"
+    education_propagandized:0 "Пропагандированное"
+    education_standard:0 "Стандартное"
+    education_excessive:0 "Чрезмерное"
+
+    #HEALTHCARE
+    cp_healthcare:0 "Здравоохранение"
+
+    #LAWS
+    healthcare_no:0 "Нет"
+    healthcare_private:0 "Частное"
+    healthcare_public_bad:0 "Плохое"
+    healthcare_public_decent:0 "Достаточное"
+    healthcare_public_good:0 "Хорошее"
+
+    #Synthetic Resources Focus - 1
+    cp_synthetic_resources_focus_1:0 "Фокус синтетических ресурсов - 1"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_1:0 "Алюминий"
+    synthetic_resources_focus_chromium_1:0 "Хром"
+    synthetic_resources_focus_oil_1:0 "Нефть"
+    synthetic_resources_focus_rubber_1:0 "Каучук"
+    synthetic_resources_focus_steel_1:0 "Сталь"
+    synthetic_resources_focus_tungsten_1:0 "Вольфрам"
+
+    #Synthetic Resources Focus - 2
+    cp_synthetic_resources_focus_2:0 "Фокус синтетических ресурсов - 2"
+
+    #LAWS
+    synthetic_resources_focus_aluminium_2:0 "Алюминий"
+    synthetic_resources_focus_chromium_2:0 "Хром"
+    synthetic_resources_focus_oil_2:0 "Нефть"
+    synthetic_resources_focus_rubber_2:0 "Каучук"
+    synthetic_resources_focus_steel_2:0 "Сталь"
+    synthetic_resources_focus_tungsten_2:0 "Вольфрам"
+
+    #----#
+    #UNITS
+    #----#
+    mercenary:0 "Наемники"
+    mercenary_desc:0 "Армия, следующая за тем, кто платит"
+
+    #----#
+    #SCRIPTED EVENTS
+    #----#
+    BG_mercenary_limited_contract:0 "Добавить ограниченную дивизию наемников \n"
+    BG_mercenary_extend_contract:0 "Продлить лимит дивизии наемников \n"

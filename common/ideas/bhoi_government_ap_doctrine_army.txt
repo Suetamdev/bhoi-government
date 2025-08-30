@@ -1,0 +1,358 @@
+ideas = {
+
+	ap_doctrine_army = {
+		law = yes
+
+		doctrine_army_plan = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			modifier = {
+				recon_factor = 0.3
+				max_planning = 0.25
+			}
+
+			equipment_bonus = {
+				infantry_equipment = {
+					instant = yes
+					supply_consumption = -0.15
+					soft_attack = 0.15
+				}
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					has_government = democratic
+					factor = 40
+				}
+
+				modifier = {
+					tag = FRA
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_army_wide = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			modifier = {
+				army_org_factor = 0.1
+				supply_factor = 0.15
+				army_fuel_consumption_factor = -0.25
+				land_reinforce_rate = 0.01
+				attrition = -0.05
+			}
+
+			ai_will_do = {
+				factor = 0.5
+				modifier = {
+					tag = SOV
+					has_government = communism
+					factor = 120
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_army_fire = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			modifier = {
+			}
+
+			equipment_bonus = {
+				anti_air_equipment = {
+					instant = yes
+					breakthrough = 0.15
+					soft_attack = 0.25
+					air_attack = 0.25
+					ap_attack = 0.1
+				}
+				anti_tank_equipment = {
+					instant = yes
+					breakthrough = 0.25
+					soft_attack = 0.15
+					hard_attack = 0.35
+					ap_attack = 0.2
+				}
+				artillery_equipment = {
+					instant = yes
+					breakthrough = 0.25
+					soft_attack = 0.35
+					hard_attack = 0.15
+				}
+				rocket_artillery_equipment = {
+					instant = yes
+					breakthrough = 0.25
+					soft_attack = 0.2
+					hard_attack = 0.2
+				}
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					has_government = fascism
+					factor = 40
+				}
+
+				modifier = {
+					tag = ITA
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_army_speed = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			equipment_bonus = {
+				armor = {
+					instant = yes
+					ap_attack = 0.20
+					breakthrough = 0.3
+					maximum_speed = 0.15
+				}
+				motorized = {
+					instant = yes
+					maximum_speed = 0.25
+				}
+				mechanized = {
+					instant = yes
+					maximum_speed = 0.25
+				}
+			}
+
+			modifier = {
+				org_loss_when_moving = -0.2
+				army_speed_factor = 0.1
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					tag = GER
+					factor = 120
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_army_combined = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			equipment_bonus = {
+				armor = {
+					instant = yes
+					hardness = 0.3
+					casualty_trickleback = 0.1
+					recon = 0.2
+					initiative = 0.15
+				}
+				motorized = {
+					instant = yes
+					hardness = 0.35
+				}
+				mechanized = {
+					instant = yes
+					hardness = 0.35
+				}
+			}
+
+			ai_will_do = {
+
+				factor = 1
+
+				modifier = {
+					tag = USA
+					factor = 40
+				}
+
+				modifier = {
+					has_government = democratic
+					tag = ENG
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_army_indirect = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			modifier = {
+				recon_factor = 0.15
+				air_superiority_bonus_in_combat = 0.15
+				fortification_damage = 0.25
+				fortification_collateral_chance = 0.25
+				railway_gun_bombardment_factor = 0.3
+				shore_bombardment_bonus = 0.3
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					has_navy_size = {
+						size > 80
+					}
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_the_old_way = {
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			modifier = {
+				cavalry_attack_factor = 0.2
+				cavalry_defence_factor = 0.2
+				modifier_army_sub_unit_cavalry_speed_factor = 0.25
+				recon_factor = 0.15
+				supply_consumption_factor = -0.10
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					tag = POL
+					factor = 40
+				}
+
+				modifier = {
+					tag = MAN
+					factor = 120
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_the_unthinkable_way = {
+			removal_cost = -1
+			available = {
+				NOT = {
+					has_idea = doctrine_army_wide
+					has_idea = doctrine_army_fire
+					has_idea = doctrine_army_plan
+					has_idea = doctrine_army_speed
+					has_idea = doctrine_army_combined
+					has_idea = doctrine_army_indirect
+					has_idea = doctrine_the_old_way
+					has_idea = doctrine_trench_warfare
+				}
+			}
+
+			equipment_bonus = {
+				infantry = {
+					instant = yes
+					supply_consumption = -0.15
+					soft_attack = 0.2
+					breakthrough = 0.2
+				}
+			}
+
+			modifier = {
+				army_speed_factor = 0.15
+				recon_factor = 0.05
+				land_reinforce_rate = 0.005
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					tag = JAP
+					factor = 40
+				}
+
+				modifier = {
+					tag = HOL
+					factor = 80
+				}
+			}
+
+			on_add = {
+				set_technology = { bicycle_infantry = 1 popup = no }
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		doctrine_trench_warfare = {
+			removal_cost = -1
+
+			available = {
+				NOT = {
+					has_idea = doctrine_the_unthinkable_way
+				}
+			}
+
+			equipment_bonus = {
+
+			}
+
+			modifier = {
+				army_defence_factor = 0.05
+				dig_in_speed_factor = 0.25
+				max_dig_in_factor = 0.35
+				recon_factor_while_entrenched = 0.15
+				land_bunker_effectiveness_factor = 0.35
+				coastal_bunker_effectiveness_factor = 0.35
+			}
+
+			ai_will_do = {
+				factor = 1
+
+				modifier = {
+					tag = FRA
+					factor = 160
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+	}
+}

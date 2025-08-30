@@ -1,0 +1,86 @@
+ideas = {
+
+	ap_volunteers = {
+		law = yes
+
+		volunteers_no = {
+			available = {
+			}
+
+			modifier = {
+				political_power_factor = 0.15
+			}
+
+			rule = {
+				can_send_volunteers = no
+			}
+
+			ai_will_do = {
+				factor = 0
+				modifier = {
+					has_government = democratic
+					factor = 40
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		volunteers_limited = {
+			available = {
+			}
+
+			modifier = {
+				political_power_factor = -0.15
+				send_volunteer_size = 3
+				send_volunteers_tension = -1
+				send_volunteer_divisions_required = -0.75
+			}
+
+			rule = {
+				can_send_volunteers = yes
+			}
+
+			ai_will_do = {
+				factor = 0
+				modifier = {
+					tag = SWE
+					factor = 20
+				}
+				modifier = {
+					tag = BRA
+					factor = 20
+				}
+				modifier = {
+					tag = SPR
+					factor = 100
+				}
+			}
+
+			cancel_if_invalid = yes
+		}
+
+		volunteers_extended = {
+			available = {
+			}
+
+			modifier = {
+				political_power_factor = -0.25
+				send_volunteer_size = 7
+				air_volunteer_cap = 1
+				send_volunteers_tension = -1
+				send_volunteer_divisions_required = -0.75
+			}
+
+			rule = {
+				can_send_volunteers = yes
+			}
+
+			ai_will_do = {
+				factor = 0
+			}
+
+			cancel_if_invalid = yes
+		}
+	}
+}
