@@ -1,7 +1,6 @@
 ideas = {
 
 	np_doctrine_navy = { 
-	
 		law = yes
 		
 		doctrine_navy_raid = {

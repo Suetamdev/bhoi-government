@@ -1,17 +1,18 @@
 BHOI_government_policies = {
 	name = "RULE_BHOI_GOVERNMENT_POLICIES"
 	group = "RULE_GROUP_BHOI_GOVERNMENT"
-	icon = "GFX_wargoals"
 
 	default = {
 		name = "LIMITED"
 		text = "RULE_OPTION_BHOI_GOVERNMENT_LIMITED"
 		desc = "RULE_OPTION_BHOI_GOVERNMENT_LIMITED_DESC"
+		allow_achievements = yes
 	}
 	
 	option = {
 		name = "UNLIMITED"
 		text = "RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED"
 		desc = "RULE_OPTION_BHOI_GOVERNMENT_UNLIMITED_DESC"
+		allow_achievements = yes
 	}
 }

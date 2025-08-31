@@ -1,7 +1,6 @@
 ideas = {
 
 	np_marine_corps = { 
-	
 		law = yes
 		
 		marine_corps_army = {

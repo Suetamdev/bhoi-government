@@ -1,0 +1,24 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			if = {
+                limit = {
+                    has_game_rule = {
+                        rule = BHOI_government_policies
+                        option = LIMITED
+                    }
+                }
+                set_variable = { global.bhoi_government_limited = 1 }
+            }
+			if = {
+                limit = {
+                    has_game_rule = {
+                        rule = BHOI_government_policies
+                        option = UNLIMITED
+                    }
+                }
+                set_variable = { global.bhoi_government_limited = 0 }
+            }
+		}
+	}
+}

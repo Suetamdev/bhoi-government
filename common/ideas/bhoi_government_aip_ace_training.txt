@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_ace_training = { 
-	
 		law = yes
 
 		training_everyone_ace = {

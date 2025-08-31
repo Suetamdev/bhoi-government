@@ -1,24 +1,26 @@
 ideas = {
 
 	ap_officer_training = { 
-	
 		law = yes
 		
 		officer_attack = {
-			removal_cost = -1
-
 			available = {
-				NOT = { has_idea = officer_defense }
-				NOT = { has_idea = officer_planning }
-				NOT = { has_idea = officer_logistics }
+
 			}
 			
 			modifier = {
+				army_leader_start_attack_level = 1
 			}
 			
 			on_add = {
 				every_army_leader = {
 					add_attack = 1
+				}
+			}
+
+			on_remove = {
+				every_army_leader = {
+					add_attack = -1
 				}
 			}
 
@@ -35,16 +37,12 @@ ideas = {
 		}
 		
 		officer_defense = {
-			removal_cost = -1
-
 			available = {
-				NOT = { has_idea = officer_attack }
-				NOT = { has_idea = officer_planning }
-				NOT = { has_idea = officer_logistics }
+
 			}
 			
 			modifier = {
-
+				army_leader_start_defense_level = 1
 			}
 
 			on_add = {
@@ -52,6 +50,13 @@ ideas = {
 					add_defense = 1
 				}
 			}
+
+			on_remove = {
+				every_army_leader = {
+					add_defense = -1
+				}
+			}
+
 			
 			ai_will_do = {
    				factor = 1
@@ -66,21 +71,23 @@ ideas = {
 		}
 		
 		officer_planning = {
-			removal_cost = -1
-		
 			available = {
-				NOT = { has_idea = officer_attack }
-				NOT = { has_idea = officer_defense }
-				NOT = { has_idea = officer_logistics }
+
 			}
 			
 			modifier = {
-
+				army_leader_start_planning_level = 1
 			}
 
 			on_add = {
 				every_army_leader = {
 					add_planning = 1
+				}
+			}
+
+			on_remove = {
+				every_army_leader = {
+					add_planning = -1
 				}
 			}
 			
@@ -97,20 +104,22 @@ ideas = {
 		}
 		
 		officer_logistics = {
-			removal_cost = -1
-		
 			available = {
-				NOT = { has_idea = officer_attack }
-				NOT = { has_idea = officer_defense }
-				NOT = { has_idea = officer_planning }
 			}
 			
 			modifier = {
+				army_leader_start_logistics_level = 1
 			}
 
 			on_add = {
 				every_army_leader = {
 					add_logistics = 1
+				}
+			}
+
+			on_remove = {
+				every_army_leader = {
+					add_logistics = -1
 				}
 			}
 

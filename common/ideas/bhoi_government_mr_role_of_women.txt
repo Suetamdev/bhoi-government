@@ -28,10 +28,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					OR = {
 						has_war = yes
@@ -60,10 +57,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					OR = {
 						has_war = yes
@@ -91,10 +85,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					AND = {
 						has_war = yes
@@ -126,10 +117,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					OR = {
 						AND = {

@@ -1,7 +1,6 @@
 ideas = {
 
 	ap_manufactory = {
-
 		law = yes
 
 		manufactory_light_tanks = {

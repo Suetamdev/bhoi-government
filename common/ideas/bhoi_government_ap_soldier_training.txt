@@ -1,7 +1,6 @@
 ideas = {
 
 	ap_soldier_training = { 
-	
 		law = yes
 		
 		soldier_basic = {

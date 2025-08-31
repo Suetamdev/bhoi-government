@@ -8,10 +8,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					NOT = {
 						has_government = fascism
@@ -42,18 +39,12 @@ ideas = {
 		}
 
 		equality_segregation = {
-
 			available = {
-				NOT = {
-					if = {
-						limit = {
-							has_game_rule = {
-								rule = BHOI_government_policies
-								option = LIMITED
-							}
-						}
-						has_government = communism
+				if = {
+					limit = {
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
+					has_government = communism
 				}
 			}
 
@@ -92,10 +83,7 @@ ideas = {
 			available = {
 				if = {
 					limit = {
-						has_game_rule = {
-							rule = BHOI_government_policies
-							option = LIMITED
-						}
+						check_variable = { var:global.bhoi_government_limited = 1 }
 					}
 					NOT = { has_government = democratic }
 				}

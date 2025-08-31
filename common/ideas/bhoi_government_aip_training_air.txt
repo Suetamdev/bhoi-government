@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_training_air = { 
-	
 		law = yes
 		
 		training_air_theory = {

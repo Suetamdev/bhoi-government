@@ -1,7 +1,6 @@
 ideas = {
 
 	np_navy_production = { 
-	
 		law = yes
 		
 		navy_production_cheap = {

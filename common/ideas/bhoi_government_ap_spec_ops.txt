@@ -1,7 +1,6 @@
 ideas = {
 
 	ap_spec_ops = { 
-	
 		law = yes
 		
 		spec_ops_quantity = {

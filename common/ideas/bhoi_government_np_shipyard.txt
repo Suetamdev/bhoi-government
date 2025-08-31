@@ -1,7 +1,6 @@
 ideas = {
 
 	np_shipyard = { 
-	
 		law = yes
 		
 		shipyard_submarine = {

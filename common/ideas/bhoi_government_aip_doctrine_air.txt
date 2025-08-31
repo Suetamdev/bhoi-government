@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_doctrine_air = { 
-	
 		law = yes
 	
 		doctrine_air_strategic = {

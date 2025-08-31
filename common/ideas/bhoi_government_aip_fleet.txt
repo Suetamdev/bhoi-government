@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_fleet = { 
-
 		law = yes
 
 		small_planes = {

@@ -322,8 +322,6 @@ ideas = {
 		}
 
 		doctrine_trench_warfare = {
-			removal_cost = -1
-
 			available = {
 				NOT = {
 					has_idea = doctrine_the_unthinkable_way

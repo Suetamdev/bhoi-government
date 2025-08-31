@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_airborne = { 
-	
 		law = yes
 
 		airborne_army = {

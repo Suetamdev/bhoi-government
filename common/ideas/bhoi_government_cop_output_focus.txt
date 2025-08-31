@@ -1,7 +1,6 @@
 ideas = {
 
 	cop_output_focus = { 
-	
 		law = yes
 		
 		output_army_dominant = {

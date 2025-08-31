@@ -1,7 +1,6 @@
 ideas = {
 
 	np_sailor_training = { 
-	
 		law = yes
 
 		sailor_training_theory = {

@@ -1,7 +1,6 @@
 ideas = {
 
 	aip_air_production = { 
-	
 		law = yes
 	
 		air_production_normal = {
