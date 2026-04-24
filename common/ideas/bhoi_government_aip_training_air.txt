@@ -10,7 +10,7 @@ ideas = {
 			modifier = {
 				air_mission_efficiency = 0.1
 				air_accidents_factor = -0.05
-				air_mission_xp_gain_factor = -0.20
+				air_mission_xp_gain_factor = -0.10
 			}
 			
 			ai_will_do = {
@@ -32,7 +32,7 @@ ideas = {
 			modifier = {
 				air_mission_efficiency = 0.1
 			    air_ace_generation_chance_factor = 0.15
-				air_mission_xp_gain_factor = -0.3
+				air_mission_xp_gain_factor = -0.2
 			}
 
 			ai_will_do = {
@@ -56,8 +56,8 @@ ideas = {
 			}
 			
 			modifier = {
-				air_accidents_factor = 0.15
-				air_mission_xp_gain_factor = 0.3
+				air_accidents_factor = 0.10
+				air_mission_xp_gain_factor = 0.2
 			}
 			
 			cancel_if_invalid = yes

@@ -15,7 +15,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = aluminium
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -23,7 +23,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = aluminium
-					amount = -3
+					amount = -6
 				}
 			}
 
@@ -45,7 +45,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = chromium
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -53,7 +53,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = chromium
-					amount = -3
+					amount = -6
 				}
 			}
 
@@ -75,7 +75,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = oil
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -83,7 +83,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = oil
-					amount = -3
+					amount = -6
 				}
 			}
 
@@ -105,7 +105,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = rubber
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -113,7 +113,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = rubber
-					amount = -3
+					amount = -6
 				}
 			}
 			
@@ -135,7 +135,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = steel
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -143,7 +143,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = steel
-					amount = -3
+					amount = -6
 				}
 			}
 			
@@ -165,7 +165,7 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = tungsten
-					amount = 3
+					amount = 5
 				}
 			}
 
@@ -173,7 +173,37 @@ ideas = {
 				modify_building_resources = {
 					building = synthetic_refinery
 					resource = tungsten
-					amount = -3
+					amount = -6
+				}
+			}
+
+			ai_will_do = {
+   				factor = 40
+   			}
+
+			cancel_if_invalid = yes
+		}
+
+		synthetic_resources_focus_coal_1 = {
+		    available = {
+			}
+			
+			modifier = {
+			}
+
+			on_add = {
+				modify_building_resources = {
+					building = synthetic_refinery
+					resource = coal
+					amount = 5
+				}
+			}
+
+			on_remove = {
+				modify_building_resources = {
+					building = synthetic_refinery
+					resource = coal
+					amount = -6
 				}
 			}
 

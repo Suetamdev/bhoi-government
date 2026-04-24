@@ -24,8 +24,8 @@ ideas = {
 			}
 			
 			modifier = {
-			    air_agility_factor = -0.2
-				air_maximum_speed_factor = -0.2
+			    air_agility_factor = -0.15
+				air_maximum_speed_factor = -0.15
 				air_fuel_consumption_factor = -0.33
 			}
 

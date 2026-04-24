@@ -59,11 +59,12 @@ ideas = {
 			}
 
 			modifier = {
-				equipment_capture = 0.15
-				operation_make_resistance_contacts_outcome = 0.5
-				resistance_target_on_our_occupied_states = 0.1
+				equipment_capture = 0.1
+				operation_make_resistance_contacts_outcome = 0.25
+				resistance_target_on_our_occupied_states = 0.15
 				resistance_growth_on_our_occupied_states = 0.25
 				exiled_divisions_attack_factor = 0.15
+				exiled_government_weekly_manpower = 250
 			}
 			
 			ai_will_do = {
@@ -123,9 +124,9 @@ ideas = {
 			modifier = {
 				 mobilization_speed = 0.75
 				 army_speed_factor = 0.10
-				 land_doctrine_cost_factor = -0.15
-				 air_doctrine_cost_factor = -0.15
-				 naval_doctrine_cost_factor = -0.15
+				 air_mastery_gain_factor = 0.15
+				 naval_mastery_gain_factor = 0.15
+				 land_mastery_gain_factor = 0.15
 			}
 			
 			ai_will_do = {
@@ -157,6 +158,8 @@ ideas = {
 				production_speed_industrial_complex_factor = -0.15
 				production_speed_arms_factory_factor = 0.25
 				production_speed_dockyard_factor = 0.25
+				conversion_cost_civ_to_mil_factor = -0.25
+				conversion_cost_mil_to_civ_factor = 0.5
 			}
 			
 			ai_will_do = {
@@ -184,7 +187,7 @@ ideas = {
 			modifier = {
 				war_support_factor = 0.1
 				conscription_factor = 0.3
-				army_morale_factor = 0.15
+				army_morale_factor = 0.1
 				army_core_defence_factor = 0.1
 			}
 			
@@ -215,9 +218,10 @@ ideas = {
 
 			modifier = {
 				operative_slot = 1
-				operation_cost = -0.10
-				operation_outcome = 0.5
+				operation_cost = -0.15
+				operation_outcome = 0.35
 				own_operative_capture_chance_factor = -0.15
+				intel_network_gain_factor = 0.25
 			}
 			
 			ai_will_do = {

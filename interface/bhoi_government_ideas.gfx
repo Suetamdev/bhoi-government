@@ -1050,6 +1050,10 @@ spriteTypes = {
 		name = "GFX_idea_synthetic_resources_focus_tungsten_1"
 		texturefile = "gfx/interface/ideas/laws/civilian_policies/cp_synthetic_resources_focus_tungsten.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_synthetic_resources_focus_coal_1"
+		texturefile = "gfx/interface/ideas/laws/civilian_policies/cp_synthetic_resources_focus_coal.dds"
+	}
 
 	#Synthetic Resources - 2
 	spriteType = {
@@ -1075,5 +1079,9 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_synthetic_resources_focus_tungsten_2"
 		texturefile = "gfx/interface/ideas/laws/civilian_policies/cp_synthetic_resources_focus_tungsten.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_synthetic_resources_focus_coal_2"
+		texturefile = "gfx/interface/ideas/laws/civilian_policies/cp_synthetic_resources_focus_coal.dds"
 	}
 }

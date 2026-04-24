@@ -437,6 +437,7 @@
     synthetic_resources_focus_rubber_1:0 "Каучук"
     synthetic_resources_focus_steel_1:0 "Сталь"
     synthetic_resources_focus_tungsten_1:0 "Вольфрам"
+    synthetic_resources_focus_coal_1:0 "Уголь"
 
     #Synthetic Resources Focus - 2
     cp_synthetic_resources_focus_2:0 "Фокус синтетических ресурсов - 2"
@@ -448,6 +449,7 @@
     synthetic_resources_focus_rubber_2:0 "Каучук"
     synthetic_resources_focus_steel_2:0 "Сталь"
     synthetic_resources_focus_tungsten_2:0 "Вольфрам"
+    synthetic_resources_focus_coal_2:0 "Уголь"
 
     #----#
     #UNITS

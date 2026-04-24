@@ -38,7 +38,7 @@ ideas = {
 			}
 
 			modifier = {
-				political_power_factor = -0.05
+				political_power_cost = 0.05
 			}
 
 			on_add = {
@@ -71,7 +71,7 @@ ideas = {
 			}
 
 			modifier = {
-				political_power_factor = -0.10
+				political_power_cost = 0.10
 			}
 
 			on_add = {

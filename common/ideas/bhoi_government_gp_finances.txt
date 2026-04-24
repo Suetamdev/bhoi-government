@@ -92,12 +92,13 @@ ideas = {
 			}
 
 			modifier = {
-				research_speed_factor = 0.08
+				research_speed_factor = 0.06
 				consumer_goods_factor = 0.1
 				production_factory_max_efficiency_factor = 0.10
 				production_factory_efficiency_gain_factor = 0.30
-				scientist_breakthrough_bonus_factor = 0.15
-				scientist_research_bonus_factor = 0.15
+				scientist_breakthrough_bonus_factor = 0.2
+				scientist_research_bonus_factor = 0.2
+				scientist_xp_gain_factor = 0.15
 			}
 
 			cost = 75

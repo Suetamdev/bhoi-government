@@ -21,4 +21,16 @@ on_actions = {
             }
 		}
 	}
+    on_annex = {
+        effect = {
+            if = {
+                limit = {
+                    has_template = "Mercenaries"
+                }
+                delete_unit_template_and_units = {
+                    division_template = "Mercenaries"
+                }
+            }
+        }
+    }
 }

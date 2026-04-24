@@ -437,6 +437,7 @@
     synthetic_resources_focus_rubber_1:0 "ゴム"
     synthetic_resources_focus_steel_1:0 "鉄鋼"
     synthetic_resources_focus_tungsten_1:0 "タングステン"
+    synthetic_resources_focus_coal_1:0 "石炭"
 
     #Synthetic Resources Focus - 2
     cp_synthetic_resources_focus_2:0 "合成資源重点 - 2"
@@ -448,6 +449,7 @@
     synthetic_resources_focus_rubber_2:0 "ゴム"
     synthetic_resources_focus_steel_2:0 "鉄鋼"
     synthetic_resources_focus_tungsten_2:0 "タングステン"
+    synthetic_resources_focus_coal_2:0 "石炭"
 
     #----#
     #UNITS

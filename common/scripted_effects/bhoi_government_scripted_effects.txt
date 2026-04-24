@@ -22,7 +22,7 @@ BG_mercenary_template = {
 	division_template = { #Mercenaries
 		name = "Mercenaries"
 		template_counter = 33
-		is_locked = yes
+		is_locked = no
 		force_allow_recruiting = yes
 		division_cap = 6
 

@@ -437,6 +437,7 @@
     synthetic_resources_focus_rubber_1:0 "Borracha"
     synthetic_resources_focus_steel_1:0 "Aço"
     synthetic_resources_focus_tungsten_1:0 "Tungstênio"
+    synthetic_resources_focus_coal_1:0 "Carvão"
 
     #Synthetic Resources Focus - 2
     cp_synthetic_resources_focus_2:0 "Foco em Recursos Sintéticos - 2"
@@ -448,6 +449,7 @@
     synthetic_resources_focus_rubber_2:0 "Borracha"
     synthetic_resources_focus_steel_2:0 "Aço"
     synthetic_resources_focus_tungsten_2:0 "Tungstênio"
+    synthetic_resources_focus_coal_2:0 "Carvão"
 
     #----#
     #UNITS

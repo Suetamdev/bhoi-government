@@ -9,6 +9,8 @@ ideas = {
 			}
 			
 			modifier = {
+				production_speed_nuclear_facility_factor = 0.2
+				production_speed_nuclear_reactor_factor = 0.2
 				production_speed_industrial_complex_factor = 0.2
 				production_speed_buildings_factor = -0.05
 			}
@@ -33,6 +35,10 @@ ideas = {
 			}
 			
 			modifier = {
+				production_speed_air_facility_factor = 0.2
+				production_speed_land_facility_factor = 0.2
+				production_speed_naval_facility_factor = 0.2
+				production_speed_naval_headquarters_factor = 0.2
 				production_speed_arms_factory_factor = 0.2
 				production_speed_dockyard_factor = 0.2
 				production_speed_buildings_factor = -0.05
@@ -63,9 +69,10 @@ ideas = {
 			}
 			
 			modifier = {
-				production_speed_bunker_factor = 0.2
-				production_speed_coastal_bunker_factor = 0.2
 				production_speed_anti_air_building_factor = 0.2
+				production_speed_radar_station_factor = 0.2
+				production_speed_coastal_bunker_factor = 0.2
+				production_speed_rocket_site_factor = 0.2
 				production_speed_buildings_factor = -0.05
 			}
 
@@ -81,12 +88,14 @@ ideas = {
 			}
 			
 			modifier = {
-				production_speed_infrastructure_factor = 0.2
-				production_speed_rail_way_factor = 0.2
-				production_speed_radar_station_factor = 0.2
 				production_speed_air_base_factor = 0.2
 				production_speed_naval_base_factor = 0.2
+				production_speed_infrastructure_factor = 0.2
+				production_speed_naval_supply_hub_factor = 0.2
+				production_speed_rail_way_factor = 0.2
 				production_speed_supply_node_factor = 0.2
+				production_speed_energy_infrastructure_factor = 0.2
+				production_speed_industrial_infrastructure_factor = 0.2
 				production_speed_buildings_factor = -0.05
 			}
 

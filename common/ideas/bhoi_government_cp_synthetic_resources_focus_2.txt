@@ -182,5 +182,35 @@ ideas = {
 
 			cancel_if_invalid = yes
 		}
+
+		synthetic_resources_focus_coal_2 = {
+		    available = {
+			}
+			
+			modifier = {
+			}
+
+			on_add = {
+				modify_building_resources = {
+					building = synthetic_refinery
+					resource = coal
+					amount = 3
+				}
+			}
+
+			on_remove = {
+				modify_building_resources = {
+					building = synthetic_refinery
+					resource = coal
+					amount = -3
+				}
+			}
+
+			ai_will_do = {
+   				factor = 40
+   			}
+
+			cancel_if_invalid = yes
+		}
 	}
 }

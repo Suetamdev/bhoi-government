@@ -10,7 +10,7 @@ ideas = {
 			modifier = {
 				critical_receive_chance = -0.15
 				naval_morale_factor = 0.15
-				experience_gain_navy_factor = -0.2
+				experience_gain_navy_factor = -0.1
 			}
 			
 			ai_will_do = {
@@ -34,7 +34,7 @@ ideas = {
 			modifier = {
 			    critical_receive_chance = -0.1
 				naval_morale_factor = 0.2
-				experience_gain_navy_factor = -0.3
+				experience_gain_navy_factor = -0.2
 			}
 			
 			ai_will_do = {
@@ -56,9 +56,9 @@ ideas = {
 			}
 			
 			modifier = {
-				naval_accidents_chance = 0.2
-				naval_morale_factor = -0.1
-				experience_gain_navy_factor = 0.3
+				naval_accidents_chance = 0.15
+				naval_morale_factor = -0.05
+				experience_gain_navy_factor = 0.25
 			}
 			
 			ai_will_do = {

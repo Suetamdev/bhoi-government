@@ -149,7 +149,7 @@ ideas = {
 
 			modifier = {
 				org_loss_when_moving = -0.2
-				army_speed_factor = 0.1
+				army_speed_factor = 0.15
 			}
 
 			ai_will_do = {
@@ -295,7 +295,7 @@ ideas = {
 			}
 
 			modifier = {
-				army_speed_factor = 0.15
+				army_speed_factor = 0.10
 				recon_factor = 0.05
 				land_reinforce_rate = 0.005
 			}

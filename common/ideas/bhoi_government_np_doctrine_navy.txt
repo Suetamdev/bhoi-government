@@ -9,8 +9,9 @@ ideas = {
 
 			equipment_bonus = {
 				submarine = {
-					max_organisation = 0.10
-					surface_detection = 0.20
+					instant = yes
+					max_strength = 0.15
+					surface_detection = 0.25
 					convoy_raiding_coordination = 0.15
 					sub_visibility = -0.05
 				}
@@ -18,6 +19,7 @@ ideas = {
 
 			modifier = {
 				naval_torpedo_reveal_chance_factor = -0.25
+				convoy_raiding_efficiency_factor = 0.15
 			}
 
 			ai_will_do = {
@@ -37,17 +39,22 @@ ideas = {
 
 			equipment_bonus = {
 				screen_ship = {
-					max_organisation = 0.20
+					instant = yes
+					max_strength = 0.15
 					sub_detection = 0.15
+					lg_attack = 0.1
 				}
 				destroyer = {
-					max_organisation = 0.20	
+					instant = yes
+					max_strength = 0.15
 					sub_detection = 0.15
+					lg_attack = 0.1
 				}
 			}
 
 			modifier = {
-			    convoy_escort_efficiency = 0.35
+				navy_max_range_factor = 0.20
+			    convoy_escort_efficiency = 0.25
 			}
 
 			ai_will_do = {
@@ -68,13 +75,17 @@ ideas = {
 
 			equipment_bonus = {
 				capital_ship = {
-					max_organisation = 0.15		
+					instant = yes
+					max_strength = 0.1
+					naval_speed = 0.1
+					anti_air_attack = 0.35
+					hg_attack = 0.15
 				}
 			}
 
 			modifier = {
 				navy_capital_ship_attack_factor = 0.20
-				navy_anti_air_attack_factor = 0.25
+				naval_heavy_gun_hit_chance_factor = 0.15
 			}
 			
 			ai_will_do = {
@@ -95,7 +106,8 @@ ideas = {
 
 			equipment_bonus = {
 				carrier = {
-					max_organisation = 0.15
+					instant = yes
+					max_strength = 0.15
 					carrier_size = 2
 				}
 			}
@@ -103,7 +115,7 @@ ideas = {
 			modifier = {
 				port_strike = 0.2
 				strike_force_movement_org_loss = -0.15
-				sortie_efficiency = 0.1
+				sortie_efficiency = 0.15
 			}
 			
 			ai_will_do = {

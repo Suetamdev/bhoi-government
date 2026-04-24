@@ -437,6 +437,7 @@
     synthetic_resources_focus_rubber_1:0 "Guma"
     synthetic_resources_focus_steel_1:0 "Stal"
     synthetic_resources_focus_tungsten_1:0 "Wolfram"
+    synthetic_resources_focus_coal_1:0 "Węgiel"
 
     #Synthetic Resources Focus - 2
     cp_synthetic_resources_focus_2:0 "Skupienie na surowcach syntetycznych - 2"
@@ -448,6 +449,7 @@
     synthetic_resources_focus_rubber_2:0 "Guma"
     synthetic_resources_focus_steel_2:0 "Stal"
     synthetic_resources_focus_tungsten_2:0 "Wolfram"
+    synthetic_resources_focus_coal_2:0 "Węgiel"
 
     #----#
     #UNITS

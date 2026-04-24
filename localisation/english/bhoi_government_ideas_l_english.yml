@@ -437,6 +437,7 @@
     synthetic_resources_focus_rubber_1:0 "Rubber"
     synthetic_resources_focus_steel_1:0 "Steel"
     synthetic_resources_focus_tungsten_1:0 "Tungsten"
+    synthetic_resources_focus_coal_1:0 "Coal"
 
     #Synthetic Resources Focus - 2
     cp_synthetic_resources_focus_2:0 "Synthetic Resources Focus - 2"
@@ -448,6 +449,7 @@
     synthetic_resources_focus_rubber_2:0 "Rubber"
     synthetic_resources_focus_steel_2:0 "Steel"
     synthetic_resources_focus_tungsten_2:0 "Tungsten"
+    synthetic_resources_focus_coal_2:0 "Coal"
 
     #----#
     #UNITS
